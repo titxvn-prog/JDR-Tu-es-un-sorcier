@@ -59,12 +59,14 @@
             "id": "9cfaad6de9aff75f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Fourre tout/Carte de Choco-Grenouille.pdf"
+                "file": "Scénario - Introduction/01 - Voyage à Poudlard.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Carte de Choco-Grenouille"
+              "icon": "lucide-file",
+              "title": "01 - Voyage à Poudlard"
             }
           }
         ],
@@ -207,6 +209,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "github-sync:Sync with Remote": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "canvas:Créer une nouvelle toile": false,
@@ -215,14 +218,18 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "2d5190b6407c5ab2",
+  "active": "9cfaad6de9aff75f",
   "lastOpenFiles": [
+    "Fourre tout/Classeur de Choco-Grenouille.pdf",
+    "Fourre tout/Cartes-du-Chateau-de-Poudlard-elfigraphic.pdf",
+    "Fourre tout/Carte de Choco-Grenouille.pdf",
+    "Fourre tout/02-grimoire.pdf",
+    "Fourre tout/01-livre-règle.pdf",
     "Sans titre",
     "Truc à faire mardi.md",
     "Introduction.md",
     "Scénario - Introduction/01 - Voyage à Poudlard.md",
     "Fourre tout/Scenario-premiere-annee-a-Poudlard-LAmulette-du-Savoir.pdf",
-    "Fourre tout/01-livre-règle.pdf",
     "Scénario - Introduction/00 - Tout va de travers.md",
     "Traits/Traits.md",
     "Poudlard.md",
@@ -230,11 +237,7 @@
     "Traits/+3 PE",
     "Traits/-3 PE",
     "Traits/-2 PE",
-    "Traits/-1 PE",
-    "Traits/+2 PE",
     "PNJ/Sorcier/Fergus Alvey.md",
-    "Traits/+1 PE",
-    "Sort/Charmes",
     "PNJ/Élian Darsley.md",
     "PNJ/Lysandre Tombenoir.md",
     "PNJ/Élèves/Daniel Lorgnier.md",
