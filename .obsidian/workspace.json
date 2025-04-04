@@ -1,0 +1,257 @@
+{
+  "main": {
+    "id": "624ba8b457b878f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "edf7642a562e0d01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1e9a356a827a5d6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Fourre tout/Scenario-premiere-annee-a-Poudlard-LAmulette-du-Savoir.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Scenario-premiere-annee-a-Poudlard-LAmulette-du-Savoir"
+            }
+          },
+          {
+            "id": "f604412aca677d97",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Fourre tout/01-livre-règle.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "01-livre-règle"
+            }
+          },
+          {
+            "id": "9c25eb388060b240",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nouvel onglet"
+            }
+          },
+          {
+            "id": "4f9bac9b21de93b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scénario - Introduction/01 - Voyage à Poudlard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 - Voyage à Poudlard"
+            }
+          },
+          {
+            "id": "9cfaad6de9aff75f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Fourre tout/Carte de Choco-Grenouille.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Carte de Choco-Grenouille"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "242089e503c8c02e",
+    "type": "split",
+    "children": [
+      {
+        "id": "aebe71edd71f71fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d5190b6407c5ab2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "579e611aeb6eea5e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "soeur",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "2ef26ce98758d91b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 302.5
+  },
+  "right": {
+    "id": "8328318fec4a1cfa",
+    "type": "split",
+    "children": [
+      {
+        "id": "37281385a53ba1f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c8680c0182538ba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Plan de Poudlard étage par étage.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour Plan de Poudlard étage par étage"
+            }
+          },
+          {
+            "id": "701111adde67b702",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Plan de Poudlard étage par étage.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de Plan de Poudlard étage par étage"
+            }
+          },
+          {
+            "id": "56bbea1d0c1e2abc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "d2167e50c0cc5660",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Plan de Poudlard étage par étage.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan de Plan de Poudlard étage par étage"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "2d5190b6407c5ab2",
+  "lastOpenFiles": [
+    "Sans titre",
+    "Truc à faire mardi.md",
+    "Introduction.md",
+    "Scénario - Introduction/01 - Voyage à Poudlard.md",
+    "Fourre tout/Scenario-premiere-annee-a-Poudlard-LAmulette-du-Savoir.pdf",
+    "Fourre tout/01-livre-règle.pdf",
+    "Scénario - Introduction/00 - Tout va de travers.md",
+    "Traits/Traits.md",
+    "Poudlard.md",
+    "Traits/-4 PE",
+    "Traits/+3 PE",
+    "Traits/-3 PE",
+    "Traits/-2 PE",
+    "Traits/-1 PE",
+    "Traits/+2 PE",
+    "PNJ/Sorcier/Fergus Alvey.md",
+    "Traits/+1 PE",
+    "Sort/Charmes",
+    "PNJ/Élian Darsley.md",
+    "PNJ/Lysandre Tombenoir.md",
+    "PNJ/Élèves/Daniel Lorgnier.md",
+    "Sort/Maléfices/Titillando.md",
+    "Lieux/Chemin de Traverse/Ollivander.md",
+    "Lieux/Chemin de Traverse/Mme Guipure.md",
+    "Lieux/Chemin de Traverse/Fleury et Bott.md",
+    "Fourre tout/Liste des fournitures scolaires - 1er Année à Poudlard.md",
+    "Fourre tout/Liste - Familier Spécial.md",
+    "Fourre tout/Fleury et Bott.md",
+    "aa.md",
+    "aaa.md",
+    "Trauma.md",
+    "Scénario d'introduction V2.md",
+    "Scénario - Introduction.md",
+    "Joueurs/trait.md",
+    "Traits/-1 PE/Veinard (-1 PE).md",
+    "Traits/Victime (+1 PE).md"
+  ]
+}
