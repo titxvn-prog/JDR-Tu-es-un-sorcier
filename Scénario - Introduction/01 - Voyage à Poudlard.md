@@ -1,14 +1,21 @@
 ## Le Poudlard Express
 
-Nous sommes le premier septembre, c'est le moment pour les joueurs de prendre le Poudlard Express à King's Cross sur la voie 9 3/4. Qu'est ce qu'ils ont l'intention de prendre pour leur voyage ? Est ce qu'ils se retrouvent avant de prendre le train ?
+Nous sommes le premier septembre, c'est le moment pour les joueurs de prendre le Poudlard Express à King's Cross sur la voie 9 3/4. Qu'est ce qu'ils ont l'intention de prendre pour leur voyage ? Ils se retrouveront avec leurs parents dans la gare.
 
-Si un jouer **Né-Moldu** a décidé de se rendre à la gare seul, il ne trouvera pas l'entrée de la voie 9 3/4 et le reste des joueurs trouveront sans difficulté. 
+Quand ils arrivent sur le quai du Poudlard Express, il croise [[Fergus Alvey]] qui guide les élèves dans la gare. Il a l'air en apparence détendu, mais semble pressé, il ne voudrait pas que les élèves ratent le train à cause de lui. Pour se détendre il fait ce qu'il sait faire de mieux  : rassurer les parents. 
+(Inclure un petit brief de Fergus)
 
-Quand ils arrivent sur le quai du Poudlard Express, il croise [[Fergus Alvey]] qui guide les élèves dans le train. Il a l'air sérieux et très concentré dans ce qu'il fait : rassurer les parents modlu, indiqué par où rentrer . Les joueurs peuvent aller le voir pour avoir une conversation, il répondra volontiers mais si la conversation commence à durer, il leur dira qu'il doit quand même continuer son job.
+Fergus regarda ça montre et s'exclama :
+> **"Par ma barbe ! Il est hors de question que vous soyez en retard à cause de moi ! Vite, tous au quai !"** S'exclama t'il.
+
+Il indiqua alors le mur par lequel rentrer, [[Éric Lapin]] s’élança avec son chariot, et s'écrasa majestueusement, sous le rire de ses camarades et l'effroi de ses parents.
+
+Un joueur attentif pourra voir que dans la précipitation Fergus à désigner la voie 9 2/4 et pas la 9 3/4.
+
+Fergus compris vite son erreur et pour ne pas perdre la face il accusera des petits malin dans le tas, qui lui on fait indiquer le mauvais chemin.
 
 Les joueurs monteront dans le train et s'installeront dans leur cabine. Lorsque l'horloge sonne 11h, le train se met en marche et un long trajet commence.
 
-Que font les joueurs lors de leur voyage pour passer le temps ? Les joueurs peuvent sortir de leur cabine pour faire de nouvelle rencontre. Ou rester dans leur cabine et attendre l'arriver du chariot de sucrerie.
 
 Les PNJ qu'ils pourront rencontré :
 - PNJ 1
@@ -17,7 +24,11 @@ Les PNJ qu'ils pourront rencontré :
 - PNJ 4
 - PNJ 5
 
-Si les joueurs vont à la rencontre de d'autre PNJ, ils finiront pas tomber sur [[]] qui à l'air en panique. Si les joueurs ne sont pas allé voir les autres PNJ, [[]] ira les voir lui même en se rendant dans la cabine des joueurs. Dans tous les cas il leur demandera si ils n'ont pas vu une grenouille quelque part dans le train car il l'a perdu.
+La boutique de confiserie arrive à leur porte. Elle propose moulte bonbons (...) Et en soulevant une cloche, une grenouille verte saute sur la vendeuse qui hurle d'effroi
+
+> **"Encore un qui se crois malin ! Vivement qu'ils deviennent plus mature ! Tout les ans ils me font une bêtises du genre ! Vous me promettez de pas devenir comme eux en grandissant hein ?"** Dit-elle en reprenant ses esprits, chassant la grenouille de la pièce des PJ
+
+Une demi-heure après, si les PJ n'ont toujours pas bouger de leur place, ils verront  [[]] qui à l'air en panique. 
 
 C'est une petite grenouille verte que les joueurs doivent chercher. [[]] leur raconte qu'il voulait s'occuper d'elle en la sortant de la cage et en lui donnant à manger mais un gros bruit à surgis dans la cabine d'à coté. Un peu confus de savoir ce qu'était le bruit, il est allé voir en la remettant dans sa cage mais l'a apparemment mal refermé et c'est à ce moment qu'elle s'est enfuis. Le bruit s'agissait seulement d'une grosse valise qui était tombé.
 
@@ -35,15 +46,16 @@ Après quelques investigations, les joueurs devront se rendre vers l'avant pour 
 
 Une fois devant ils croiseront [[Daniel Lorgnier]] et sa bande de pote ([[]] et [[]]) qui forment un cercle au tour de quelques chose au sol et lance des sorts dessus. Quand les joueurs vont se rapprocher ils constateront que c'est la grenouille qui semble prendre des formes incongrus suite au sort de la bande. 
 
-[[Daniel Lorgnier]] les remarque, prend la grenouille dans ses mains. il prendra un air arrogant et humiliant en s'adressant à [[]] :
+[[Daniel Lorgnier]] les remarque, prend la grenouille par la patte. Il prendra un air supérieur et en profite pour humilier [[]] :
 
-> On a perdu sa grenouille ? Avec toutes les larmes qui coulent sur ton visage, elle va se dessécher de si tôt. Tu veux la récupérer ? Viens la chercher.
+> On a perdu sa petite grenouille ? Avec toutes les larmes qui coulent sur ton visage, on comprend rien,  tu peux articuler ? On entends rien entre la queue dans ta bouche et l'apitoiement qui t'étouffe. Si tu la veux viens la chercher !
+
 
 Naïvement [[]] ira la chercher et lorsqu'il sera proche de Daniel, il lancera la grenouille à [[]] et ainsi de suite.
 
-Les joueurs peuvent lancer un sort pour tenter de récupérer la grenouille mais l'un de la bande à Daniel répliquera avec un crache limasse. Un préfet interviendra ensuite vers le groupe pour les disputer de foutre au tant le bordel dans le train. [[]] récupérera sa grenouille et le joueur qui a lancé le sort subira la conséquence **Colère** (-2 dans tous les jets). Daniel et sa bande vous regarderont d'un air menaçant mais retourneront dans leur cabine. 
+Les joueurs peuvent lancer un sort pour tenter de récupérer la grenouille mais l'un de la bande à Daniel répliquera avec un crache limasse. Ce n'est autre que [[Tom Jefferson]], professeur de défense contre les forces du mal, qui interviendra ensuite vers le groupe pour les disputer pour mettre un brouhaha pas possible dans le train. [[]] récupérera sa grenouille et le joueur qui a lancé le sort subira la conséquence **Colère** (-2 dans tous les jets). Daniel et sa bande vous regarderont d'un air menaçant mais retourneront dans leur cabine. 
 
-> On en a pas fini avec vous, bande de looser. 
+> On se recroisera, croyez moi. 
 
 [[]] semble reconnaissant de l'avoir aidé à retrouver sa grenouille et vous offre quelques chocogrenouilles avec leurs cartes.
 
@@ -62,7 +74,11 @@ Les joueurs peuvent discuter avec les PNJ ou entre eux. Laisser un peu de temps 
 
 > Faites attention à ne pas être trop brusque dans vos mouvements, ça serait bête de réveiller le calmar géant.
 
-Les joueurs arrivent à bon port sans encombre et monte les escaliers du chateau. Arriver en haut, [[Minerva McGonagall]] les attend et leur demander de patienter le temps d'un instant et leur parler de l'importance des maisons.
+> La dernière fois qu'on m'a charger d'accompagner les élèves, on a perdu une barque de 5 élèves qu'on a jamais revu...
+
+>Je me souviens plus si on a mis un sort de protection sur les barques, car certaine était trouée...Ca vous dérange pas de m'aider à surveiller vos camarades ?
+
+Les joueurs arrivent à bon port sans encombre et monte les escaliers du château. Arriver en haut, [[Minerva McGonagall]] les attend et leur demander de patienter le temps d'un instant et leur parler de l'importance des maisons.
 
 > _Bienvenue à Poudlard. Le banquet de début d'année va bientôt commencer mais avant que vous preniez place dans la [[Grande Salle]], vous allez être répartis dans les différentes maisons. Cette répartition constitue une cérémonie très importante. Vous devez savoir, en effet, que tout au long de votre séjour à l'école, votre maison sera pour vous comme une seconde famille. Vous y suivrez les mêmes cours, vous y dormirez dans le même dortoir et vous passerez votre temps libre dans la même salle commune. Les maisons sont au nombre de quatre. Elles ont pour nom Gryffondor, Poufsouffle, Serdaigle et Serpentard. Chaque maison a sa propre histoire, sa propre noblesse, et chacune d'elles a formé au cours des ans des sorciers et des sorcières de premier plan._|
 
@@ -77,7 +93,12 @@ Une fois le repas fini, ils se rendront dans leur différentes salles communes a
 [[SC - Poufsouffle]]
 [[SC - Serpentard]]
 
-Les joueurs s'amusent surement un peu avant d'aller dormir mais c'est la fin du scénario et bientôt le début des cours.
+Les joueurs s'amusent surement un peu avant d'aller dormir mais il ne faut pas tarder d'aller dormir avant d'aller en cour.
 
+Quel maison pour Daniel et sa bande (Serpentard je pense, au vu du groupe t'aura au moins un joueur chez lui)
 
-
+-Daniel et sa bande planque les affaires d'un PJ
+-Les PJ font une crasse à Daniel
+-L'un des élèves est enfaite un mangemort sous polynectar (mais quel but il aurait ?)
+-Anticiper si la salle sur demande se manifeste ou non
+-Mettre en place des évènements étrange mais vite résolu pour préparer la suite de l'intrigue
