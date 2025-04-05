@@ -6,6 +6,7 @@ Quand ils arrivent sur le quai du Poudlard Express, il croise [[Fergus Alvey]] q
 (Inclure un petit brief de Fergus)
 
 Fergus regarda ça montre et s'exclama :
+
 > **"Par ma barbe ! Il est hors de question que vous soyez en retard à cause de moi ! Vite, tous au quai !"** S'exclama t'il.
 
 Il indiqua alors le mur par lequel rentrer, [[Éric Lapin]] s’élança avec son chariot, et s'écrasa majestueusement, sous le rire de ses camarades et l'effroi de ses parents.
@@ -15,7 +16,6 @@ Un joueur attentif pourra voir que dans la précipitation Fergus à désigner la
 Fergus compris vite son erreur et pour ne pas perdre la face il accusera des petits malin dans le tas, qui lui on fait indiquer le mauvais chemin.
 
 Les joueurs monteront dans le train et s'installeront dans leur cabine. Lorsque l'horloge sonne 11h, le train se met en marche et un long trajet commence.
-
 
 Les PNJ qu'ils pourront rencontré :
 - PNJ 1
@@ -28,13 +28,13 @@ La boutique de confiserie arrive à leur porte. Elle propose moulte bonbons (...
 
 > **"Encore un qui se crois malin ! Vivement qu'ils deviennent plus mature ! Tout les ans ils me font une bêtises du genre ! Vous me promettez de pas devenir comme eux en grandissant hein ?"** Dit-elle en reprenant ses esprits, chassant la grenouille de la pièce des PJ
 
-Une demi-heure après, si les PJ n'ont toujours pas bouger de leur place, ils verront  [[]] qui à l'air en panique. 
+Une demi-heure après, si les PJ n'ont toujours pas bouger de leur place, ils verront  [[Lysandre Tombenoir]] qui à l'air en panique. 
 
-C'est une petite grenouille verte que les joueurs doivent chercher. [[]] leur raconte qu'il voulait s'occuper d'elle en la sortant de la cage et en lui donnant à manger mais un gros bruit à surgis dans la cabine d'à coté. Un peu confus de savoir ce qu'était le bruit, il est allé voir en la remettant dans sa cage mais l'a apparemment mal refermé et c'est à ce moment qu'elle s'est enfuis. Le bruit s'agissait seulement d'une grosse valise qui était tombé.
+C'est une petite grenouille verte que les joueurs doivent chercher. [[Lysandre Tombenoir]] leur raconte qu'il voulait s'occuper d'elle en la sortant de la cage et en lui donnant à manger mais un gros bruit à surgis dans la cabine d'à coté. Un peu confus de savoir ce qu'était le bruit, il est allé voir en la remettant dans sa cage mais l'a apparemment mal refermé et c'est à ce moment qu'elle s'est enfuis. Le bruit s'agissait seulement d'une grosse valise qui était tombé.
 
 Ils pourront trouver des indices dans différentes parties du train :
 
-- Dans sa cabine, ils trouveront la cage de la grenouille vide et ouverte en grand ainsi qu'un récipient contenant divers insecte qui aurait fait un excellent repas pour la grenouille, il ne manque d'ailleurs aucun insecte dedans d'après [[]]. Si ils décident de faire un jet de perception, ils pourront entendre un petit bruit venant de la valise du haut et si ils décident de regarder, ne trouverons que d'autre récipient contenant des insectes.
+- Dans sa cabine, ils trouveront la cage de la grenouille vide et ouverte en grand ainsi qu'un récipient contenant divers insecte qui aurait fait un excellent repas pour la grenouille, il ne manque d'ailleurs aucun insecte dedans d'après [[Lysandre Tombenoir]]. Si ils décident de faire un jet de perception, ils pourront entendre un petit bruit venant de la valise du haut et si ils décident de regarder, ne trouverons que d'autres récipients contenant des insectes.
 - Interroger les différents élèves à proximités :
 	- [[]] semble n'avoir rien vu
 	- [[]] ne veut pas entendre parler de grenouille suite à sa découverte malaisante des chocogrenouilles (et oui elle bouge et c'est un Né-Moldu)
@@ -42,7 +42,7 @@ Ils pourront trouver des indices dans différentes parties du train :
 	- [[]] dit l'avoir vu dans le wagon bar (évidemment c'est un mensonge et les joueurs peuvent tenter de découvrir le mensonge avec un jet de Bluff dd15)
 - Ils peuvent visiter dans une autre cabine un carnet de croquis qui dessine tout ce qu'il voit et notamment une grenouille qui semble se diriger vers l'avant du train
 
-Après quelques investigations, les joueurs devront se rendre vers l'avant pour essayer de retrouver la grenouille accompagner de [[]] pnj grenouille
+Après quelques investigations, les joueurs devront se rendre vers l'avant pour essayer de retrouver la grenouille accompagner de [[Lysandre Tombenoir]]
 
 Une fois devant ils croiseront [[Daniel Lorgnier]] et sa bande de pote ([[]] et [[]]) qui forment un cercle au tour de quelques chose au sol et lance des sorts dessus. Quand les joueurs vont se rapprocher ils constateront que c'est la grenouille qui semble prendre des formes incongrus suite au sort de la bande. 
 

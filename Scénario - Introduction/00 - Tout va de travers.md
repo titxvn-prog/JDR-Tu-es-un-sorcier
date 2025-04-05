@@ -43,7 +43,7 @@ _Le choix de la baguette déterminera le caractère du personnage des joueurs, e
 > "Bien. Tout le monde a sa baguette ? Parfait, vous voila de vrai sorcier maintenant. Direction maintenant la boutique Fleury et Bott pour vos bouquins"
 
 ---
-### [[Lieux/Chemin de Traverse/Fleury et Bott]] - Librairie magique
+### [[Fleury et Bott]] - Librairie magique
 
 > Quand vous arrivez devant la boutique Fleury et Bott, une clochette retentit au-dessus de la porte. L'intérieur est envahi de sorciers qui souhaite également acheter leur livre, des piles de grimoire en tout genre, tiennent en équilibre, menaçant de tomber à tout moment. Un véritable brouhaha résonne dans la boutique.  Vous sentez que les employés de la boutique sont débordés par les demandes de tout le monde.
 
