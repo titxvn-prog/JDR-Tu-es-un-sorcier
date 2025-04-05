@@ -1,0 +1,1 @@
+- Un élève a subi une malédiction et se transforme parfois en serpent géant. C'est alors que Daniel et sa bande enferme cet élève et un autre élève dans un endroit interdit de Poudlard et les joueurs devront tenter de les sauver.
