@@ -5,7 +5,6 @@
 
 ### Informations générales
 - **Âge / Année** : 
-- **Sexe :** Homme
 - **Ascendance** : (Sang-pur, sang-mêlé, né-moldu, inconnu)
 - **Maison** : Serpentard
 - **Occupation** : (élève, professeur, fantôme, créature, etc.)

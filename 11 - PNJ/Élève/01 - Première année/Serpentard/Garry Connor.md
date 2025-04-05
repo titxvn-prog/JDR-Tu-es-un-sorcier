@@ -5,6 +5,7 @@
 
 ### Informations générales
 - **Âge / Année** : 11 ans
+- **Sexe :** Homme
 - **Ascendance** : Sang-pur
 - **Maison** : Serpentard
 - **Occupation** : Élève

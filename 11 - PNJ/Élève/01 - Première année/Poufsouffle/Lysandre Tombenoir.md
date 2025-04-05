@@ -5,6 +5,7 @@
 
 ### Informations générales
 - **Âge / Année** : 
+- **Sexe :** Homme
 - **Ascendance** : sang-mêlé
 - **Maison** : Poufsouffle
 - **Occupation** : Élève

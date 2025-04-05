@@ -4,49 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "719de0c03594b3c7",
+        "id": "bd42d680dd8a84d2",
         "type": "tabs",
         "children": [
           {
-            "id": "e852e10c562b39e4",
+            "id": "756da79f0e226e88",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "99 - Fourre tout/Plan de Poudlard étage par étage.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Plan de Poudlard étage par étage"
-            }
-          },
-          {
-            "id": "4a9c6f5e8d6730e4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "99 - Fourre tout/Scenario-premiere-annee-a-Poudlard-LAmulette-du-Savoir.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Scenario-premiere-annee-a-Poudlard-LAmulette-du-Savoir"
-            }
-          },
-          {
-            "id": "e35790236ecd7b35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11 - PNJ/Élève/01 - Première année/01 - Première année.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01 - Première année"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vue graphique"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99 - Fourre tout/Scenario-premiere-annee-a-Poudlard-LAmulette-du-Savoir.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Scenario-premiere-annee-a-Poudlard-LAmulette-du-Savoir"
+              "title": "Rétroliens"
             }
           },
           {
@@ -138,12 +108,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99 - Fourre tout/Scenario-premiere-annee-a-Poudlard-LAmulette-du-Savoir.pdf",
+                "file": "06 - Listes/Liste - Familier Spécial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Scenario-premiere-annee-a-Poudlard-LAmulette-du-Savoir"
+              "title": "Liens sortants de Liste - Familier Spécial"
             }
           },
           {
@@ -180,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,42 +163,44 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "4a9c6f5e8d6730e4",
+  "active": "756da79f0e226e88",
   "lastOpenFiles": [
-    "Sans titre.md",
+    "20 - Scénario Introduction/01 - Voyage à Poudlard.md",
+    "11 - PNJ/Élève/01 - Première année/Serpentard/Antoine Greson.md",
+    "11 - PNJ/Élève/01 - Première année/Serpentard/Daniel Lorgnier.md",
+    "11 - PNJ/Élève/01 - Première année/Serpentard/Elfrida Parkin.md",
+    "11 - PNJ/Élève/01 - Première année/Serpentard/Evan Farrow.md",
+    "11 - PNJ/Élève/01 - Première année/Serpentard/Garry Connor.md",
+    "11 - PNJ/Élève/01 - Première année/Serpentard/Kyle Cooper.md",
+    "11 - PNJ/Élève/01 - Première année/Serpentard/Lona Felswing.md",
+    "11 - PNJ/Élève/01 - Première année/Serpentard/Penny Deans.md",
+    "11 - PNJ/Élève/01 - Première année/Serpentard/Rebecca Bulstrode.md",
+    "11 - PNJ/Élève/01 - Première année/01 - Première année.md",
+    "11 - PNJ/Élève/01 - Première année/Serpentard/Buckley Raynes.md",
+    "11 - PNJ/Élève/01 - Première année/Serdaigle/Melissa Karaboss.md",
+    "11 - PNJ/Élève/01 - Première année/Serpentard/Raynes Buckley.md",
+    "11 - PNJ/Élève/01 - Première année/Serdaigle/Sylvester Quince.md",
+    "11 - PNJ/Élève/01 - Première année/Serdaigle/Su Li.md",
+    "11 - PNJ/Élève/01 - Première année/Serdaigle/Morgane Gulliver.md",
+    "11 - PNJ/Élève/01 - Première année/Serdaigle/Kateline MacAllister.md",
+    "11 - PNJ/Élève/01 - Première année/Serdaigle/Isabel MacDougal.md",
+    "11 - PNJ/Élève/01 - Première année/Serdaigle/Gweneth Clerval.md",
+    "11 - PNJ/Élève/01 - Première année/Serdaigle/Ginny Clerval.md",
+    "11 - PNJ/Élève/01 - Première année/Serdaigle/Auberon Fairbairn.md",
+    "11 - PNJ/Élève/01 - Première année/Serdaigle/Archibald Willowis.md",
+    "11 - PNJ/Élève/01 - Première année/Poufsouffle/Tracy Knott.md",
+    "11 - PNJ/Élève/01 - Première année/Poufsouffle/Prude Prescott.md",
+    "11 - PNJ/Élève/01 - Première année/Poufsouffle/Peter Lawrence.md",
+    "Sans titre.canvas",
+    "11 - PNJ/Famille/Lorgnier",
+    "99 - Fourre tout/Plan de Poudlard étage par étage.pdf",
     "99 - Fourre tout/Scenario-premiere-annee-a-Poudlard-LAmulette-du-Savoir.pdf",
     "99 - Fourre tout/Scenario-dintroduction-Tout-va-de-travers-au-Chemin-de-Traverse.pdf",
     "99 - Fourre tout/Scenario-Deuxieme-annee-a-Poudlard-Le-Calice-des-Immortels.pdf",
-    "99 - Fourre tout/Plan de Poudlard étage par étage.pdf",
     "99 - Fourre tout/Les-Spectres-dun-Passe-Oublie.pdf",
     "99 - Fourre tout/Le Grand Livre des Traits 2.0.pdf",
-    "12 - Annexes/Liste des fournitures scolaires - 1er Année à Poudlard.md",
     "12 - Annexes",
     "12 - Annexes/Maladies-Blessures-Empoisonnements-Maledictions-et-objets-maudits.pdf",
-    "99 - Fourre tout/harry-potter-scenario-jdr-serpent-a-deux-tetes-v2.pdf",
-    "99 - Fourre tout/Constellations_Roi DiDaDou.pdf",
-    "11 - PNJ/Élève/01 - Première année/Serpentard/Antoine Greson.md",
-    "11 - PNJ/Élève/01 - Première année/01 - Première année.md",
-    "11 - PNJ/Élève/01 - Première année/Serpentard/Buckley Raynes.md",
-    "20 - Scénario Introduction/Idée prochain scénario.md",
-    "11 - PNJ/Élève/01 - Première année/Serpentard/Daniel Lorgnier.md",
-    "11 - PNJ/Élève/01 - Première année/Serpentard/Garry Connor.md",
-    "20 - Scénario Introduction/01 - Voyage à Poudlard.md",
-    "11 - PNJ/Professeurs/Éric Lapin.md",
-    "06 - Listes/Liste - Familier Spécial.md",
-    "11 - PNJ/Élève/01 - Première année/Poufsouffle/Lysandre Tombenoir.md",
-    "11 - PNJ/Asmaël Lorgnier.md",
-    "20 - Scénario Introduction/00 - Tout va de travers.md",
-    "00 - Modèle/Modèle PNJ.md",
-    "11 - PNJ/Élève/02 - Deuxième année/02 - Deuxième année.md",
-    "10 - Lieux/Chemin de Traverse/Fleury et Bott.md",
-    "Fourre tout/Fleury et Bott.md",
-    "Truc à faire mardi.md",
-    "Introduction.md",
-    "03 - Traits/03 - Traits.md",
-    "Poudlard.md",
-    "11 - PNJ/Sorcier/Fergus Alvey.md",
-    "PNJ/Élian Darsley.md",
-    "PNJ/Lysandre Tombenoir.md"
+    "99 - Fourre tout/harry-potter-scenario-jdr-serpent-a-deux-tetes-v2.pdf"
   ]
 }

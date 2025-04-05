@@ -5,9 +5,8 @@
 
 ### Informations générales
 - **Âge / Année** : 
-- **Sexe :** Homme
 - **Ascendance** : (Sang-pur, sang-mêlé, né-moldu, inconnu)
-- **Maison** : Serpentard
+- **Maison** : Poufsouffle
 - **Occupation** : (élève, professeur, fantôme, créature, etc.)
 - **Parents :**
 - **Apparence** : 

@@ -9,7 +9,7 @@ Fergus regarda ça montre et s'exclama :
 
 > **"Par ma barbe ! Il est hors de question que vous soyez en retard à cause de moi ! Vite, tous au quai !"** S'exclama t'il.
 
-Il indiqua alors le mur par lequel rentrer, [[Éric Lapin]] s’élança avec son chariot, et s'écrasa majestueusement, sous le rire de ses camarades et l'effroi de ses parents.
+Il indiqua alors le mur par lequel rentrer, [[Tom Jefferson]] s’élança avec son chariot, et s'écrasa majestueusement, sous le rire de ses camarades et l'effroi de ses parents.
 
 Un joueur attentif pourra voir que dans la précipitation Fergus à désigner la voie 9 2/4 et pas la 9 3/4.
 
@@ -87,13 +87,13 @@ Après son discours, elle les fera rentrer dans la [[Grande Salle]]. Dans cette 
 Le directeur de Poudlard, [[Albus Dumbledore]], prend la parole pour présenter l'école et les différents professeurs qu'ils auront au cours de leur scolarité.
 
 - En Métamorphose : [[Minerva McGonagall]]
-- En Défense contre les forces du mal : [[Éric Lapin]]
+- En Défense contre les forces du mal : [[Tom Jefferson]]
 - En Botanique : [[Pomona Chourave]]
 - En Potion : [[Horace Slughorn]]
 - En Histoire de la Magie : [[Fantôme Binns]]
 - En Astronomie : [[Aurora Sinistra]]
 - En Vol : [[Nestor Flynt]]
-- En Enchantement : [[Flitwick]]
+- En Enchantement : [[Filius Flitwick]]
 - Concierge : [[Argus Rusard]]
 
 > Bonsoir, chers élèves, anciens et nouveaux, petits et... eh bien, moins petits. Si vous êtes ici, c'est que vous avez survécu au trajet en train, à la traversé en barque et probablement à un excès de dragées surprises. Félicitations ! Je vous souhaites la bienvenu à Poudlard, école de sorcellerie, institution du savoir, bastion de l'excellence et occasionnel terrain de Quidditch sauvage en l'absence de supervisions adulte.
