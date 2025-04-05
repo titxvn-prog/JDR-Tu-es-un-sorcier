@@ -18,15 +18,15 @@ Fergus compris vite son erreur et pour ne pas perdre la face il accusera des pet
 Les joueurs monteront dans le train et s'installeront dans leur cabine. Lorsque l'horloge sonne 11h, le train se met en marche et un long trajet commence.
 
 Les PNJ qu'ils pourront rencontré :
-- [[Ginny Clerval]] et [[Gweneth Clerval]], des sœurs jumelles. Elles semblent discuter des sorts qu'elles aimeraient apprendre en feuilletant un bouquin. Notamment de [[Failamalle]] qui permettrait de ranger ses affaires. Si les joueurs se prennent d'amitié d'une manière ou d'une autre avec elles, elles pourront leur apprendre un maléfice : [[Furunculus]]
+- [[Ginny Clerval]] et [[Gweneth Clerval]], des sœurs jumelles. Elles semblent discuter des sorts qu'elles aimeraient apprendre en feuilletant un bouquin. Notamment de [[2e - Failamalle]] qui permettrait de ranger ses affaires. Si les joueurs se prennent d'amitié d'une manière ou d'une autre avec elles, elles pourront leur apprendre un maléfice : [[1er - Furunculus]]
 - [[Peter Lawrence]] est le type qui s'est mangé le mur à la gare, il semble un peu contrarié par l'erreur de Fergus qui lui a valu une sacré humiliation. De plus, la dame du chariot de sucrerie lui a vendu une choco-grenouille et le fait que la grenouille en chocolat bouge l'a pris un peu de cours. Décidément, il ne s'y fera jamais à ce monde de sorcier. Il sera difficile de devenir amis avec lui pour le moment mais avec les bons mots, tout peut être possible.
-- [[Buckley Raynes]] semble être en train de tendre une farce à la dame du chariot. _Trouver une farce à faire (Pourquoi pas coller les roues du chariot au sol ?)
+- [[Buckley Raynes]] semble être en train de tendre une farce à la dame du chariot en manigancent un dragée pour le faire exploser en un tas de confettis sur le chariot.
 - [[Amy Garrison]] 
-- PNJ 5
+- [[Lysandre Tombenoir]] est inquiet et cherche quelques choses en tournant la tête dans tous les sens, soulevant les objets de temps à d'autre et les repose tout suite après avoir vu qu'il n'y avait rien dessous
 
-La boutique de confiserie arrive à leur porte. Elle propose moulte bonbons (...) Et en soulevant une cloche, une grenouille verte saute sur la vendeuse qui hurle d'effroi
+La boutique de confiserie arrive à leur porte. Elle propose moult bonbons (...) Et en soulevant le paquet de dragée, un des dragée se mets à exploser et mettre des confettis partout.
 
-> **"Encore un qui se crois malin ! Vivement qu'ils deviennent plus mature ! Tout les ans ils me font une bêtises du genre ! Vous me promettez de pas devenir comme eux en grandissant hein ?"** Dit-elle en reprenant ses esprits, chassant la grenouille de la pièce des PJ
+> **"Encore un qui se crois malin ! Vivement qu'ils deviennent plus mature ! Tout les ans ils me font une bêtises du genre ! Vous me promettez de pas devenir comme eux en grandissant hein ?"** Dit-elle en reprenant ses esprits, chassant les confettis qui volent encore comme par magie.
 
 Une demi-heure après, si les PJ n'ont toujours pas bouger de leur place, ils verront  [[Lysandre Tombenoir]] qui à l'air en panique. 
 
@@ -44,14 +44,14 @@ Ils pourront trouver des indices dans différentes parties du train :
 
 Après quelques investigations, les joueurs devront se rendre vers l'avant pour essayer de retrouver la grenouille accompagner de [[Lysandre Tombenoir]]
 
-Une fois devant ils croiseront [[Daniel Lorgnier]] et sa bande de pote ([[]] et [[]]) qui forment un cercle au tour de quelques chose au sol et lance des sorts dessus. Quand les joueurs vont se rapprocher ils constateront que c'est la grenouille qui semble prendre des formes incongrus suite au sort de la bande. 
+Une fois devant ils croiseront [[Daniel Lorgnier]] et sa bande de pote ([[Antoine Greson]] et [[Garry Connor]]) qui forment un cercle au tour de quelques chose au sol et lance des sorts dessus. Quand les joueurs vont se rapprocher ils constateront que c'est la grenouille qui semble prendre des formes incongrus suite au sort de la bande. 
 
-[[Daniel Lorgnier]] les remarque, prend la grenouille par la patte. Il prendra un air supérieur et en profite pour humilier [[]] :
+[[Daniel Lorgnier]] les remarque, prend la grenouille par la patte. Il prendra un air supérieur et en profite pour humilier [[Lysandre Tombenoir]] :
 
 > On a perdu sa petite grenouille ? Avec toutes les larmes qui coulent sur ton visage, on comprend rien,  tu peux articuler ? On entends rien entre la queue dans ta bouche et l'apitoiement qui t'étouffe. Si tu la veux viens la chercher !
 
 
-Naïvement [[]] ira la chercher et lorsqu'il sera proche de Daniel, il lancera la grenouille à [[]] et ainsi de suite.
+Naïvement [[Lysandre Tombenoir]] ira la chercher et lorsqu'il sera proche de Daniel, il lancera la grenouille à [[Garry Connor]] qui la balande à [[Antoine Greson]] et ainsi de suite.
 
 Les joueurs peuvent lancer un sort pour tenter de récupérer la grenouille mais l'un de la bande à Daniel répliquera avec un crache limasse. Ce n'est autre que [[Tom Jefferson]], professeur de défense contre les forces du mal, qui interviendra ensuite vers le groupe pour les disputer pour mettre un brouhaha pas possible dans le train. [[]] récupérera sa grenouille et le joueur qui a lancé le sort subira la conséquence **Colère** (-2 dans tous les jets). Daniel et sa bande vous regarderont d'un air menaçant mais retourneront dans leur cabine. 
 

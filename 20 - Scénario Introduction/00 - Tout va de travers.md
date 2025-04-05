@@ -168,7 +168,7 @@ _Les joueurs sont libres de répondre ce qu'il veulent. Si ils parlent des évé
 
 _Si les joueurs décident de l'aidée, il leur tendra un filet et leur apprendra un maléfice pour qu'ils puissent espérer le capturer plus facilement._
 
-> "Tenez pour vous, un filet à jeter sur la créature, n'hésitez pas à utiliser [[Titillando]], il déteste les chatouilles. Attendez, vous ne savez pas ce qu'est le maléfice **Titillando** ? Je vais vous apprendre vite fait."
+> "Tenez pour vous, un filet à jeter sur la créature, n'hésitez pas à utiliser [[1er - Titillando]], il déteste les chatouilles. Attendez, vous ne savez pas ce qu'est le maléfice **Titillando** ? Je vais vous apprendre vite fait."
 
 _Demandez à vos joueurs de lancer un jet de **Maléfice** (d20 + Magie + Farce). Les joueurs qui échouent n'arriveront pas à apprendre le maléfice mais pourront tout de même l'apprendre par la suite. Ceux qui réussissent pourront noter dans leur liste de sort le maléfice et le lancer comme bon leur semble._
 

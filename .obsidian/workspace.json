@@ -1,52 +1,22 @@
 {
   "main": {
-    "id": "624ba8b457b878f6",
+    "id": "de4be274eb9e1ab3",
     "type": "split",
     "children": [
       {
-        "id": "2136343971bb2203",
+        "id": "50b9dd229ad84f6e",
         "type": "tabs",
         "children": [
           {
-            "id": "51d7f893e887b07f",
+            "id": "c640689df94b4a9e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excel-view",
               "state": {
-                "file": "20 - Scénario Introduction/01 - Voyage à Poudlard.md",
-                "mode": "source",
-                "source": false
+                "file": "04 - Sort/Liste des sorts.sheet.md"
               },
               "icon": "lucide-file",
-              "title": "01 - Voyage à Poudlard"
-            }
-          },
-          {
-            "id": "27bd271e072fb465",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11 - PNJ/Élève/01 - Première année/Poufsouffle/Peter Lawrence.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Peter Lawrence"
-            }
-          },
-          {
-            "id": "bf0679443b75b83e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - Sort/Maléfices/Furunculus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Furunculus"
+              "title": "Liste des sorts.sheet"
             }
           }
         ]
@@ -55,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "242089e503c8c02e",
+    "id": "3c19efd23131ed5b",
     "type": "split",
     "children": [
       {
-        "id": "aebe71edd71f71fb",
+        "id": "82e114f2f00ff46d",
         "type": "tabs",
         "children": [
           {
-            "id": "2d5190b6407c5ab2",
+            "id": "c29ae885426db1ef",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -72,16 +42,16 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorateur de fichiers"
             }
           },
           {
-            "id": "579e611aeb6eea5e",
+            "id": "67d83e1ad367f054",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "soeur",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +63,7 @@
             }
           },
           {
-            "id": "2ef26ce98758d91b",
+            "id": "7e2dae6176cffdb4",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -106,23 +76,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 300
   },
   "right": {
-    "id": "8328318fec4a1cfa",
+    "id": "8e1e18edf54c788b",
     "type": "split",
     "children": [
       {
-        "id": "37281385a53ba1f3",
+        "id": "87fc4363559bd33d",
         "type": "tabs",
         "children": [
           {
-            "id": "2c8680c0182538ba",
+            "id": "2f562fb1189287fa",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20 - Scénario Introduction/01 - Voyage à Poudlard.md",
+                "file": "04 - Sort/Liste des sorts.sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,25 +102,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 01 - Voyage à Poudlard"
+              "title": "Rétrolien pour Liste des sorts.sheet"
             }
           },
           {
-            "id": "701111adde67b702",
+            "id": "edeeeac38aa5bf12",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 - Listes/Liste - Familier Spécial.md",
+                "file": "04 - Sort/Liste des sorts.sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Liste - Familier Spécial"
+              "title": "Liens sortants de Liste des sorts.sheet"
             }
           },
           {
-            "id": "56bbea1d0c1e2abc",
+            "id": "fc90c1d9d5b52418",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -165,75 +135,42 @@
             }
           },
           {
-            "id": "d2167e50c0cc5660",
+            "id": "cb1410c071cc5bc4",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plan de Poudlard étage par étage.pdf",
+                "file": "04 - Sort/Liste des sorts.sheet.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Plan de Poudlard étage par étage"
+              "title": "Plan de Liste des sorts.sheet"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "github-sync:Sync with Remote": false
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "github-sync:Sync with Remote": false,
+      "excel:Create Excel File": false
     }
   },
-  "active": "51d7f893e887b07f",
+  "active": "c640689df94b4a9e",
   "lastOpenFiles": [
-    "11 - PNJ/Élève/01 - Première année/Serpentard/Buckley Raynes.md",
     "20 - Scénario Introduction/01 - Voyage à Poudlard.md",
-    "11 - PNJ/Élève/01 - Première année/Poufsouffle/Peter Lawrence.md",
-    "04 - Sort/Maléfices/Furunculus.md",
-    "04 - Sort/Utilitaire/Failamalle.md",
-    "11 - PNJ/Élève/01 - Première année/Serdaigle/Ginny Clerval.md",
-    "20 - Scénario Introduction/Idée prochain scénario.md",
-    "00 - Modèle/Modèle de sort.md",
-    "11 - PNJ/Élève/01 - Première année/Serdaigle/Gweneth Clerval.md",
-    "00 - Modèle/Modèle PNJ.md",
-    "04 - Sort/Utilitaire/Utilitaire.md",
-    "Sans titre",
-    "04 - Sort/Utilitaire",
-    "11 - PNJ/Élève/01 - Première année/Serpentard/Antoine Greson.md",
-    "11 - PNJ/Élève/01 - Première année/Serpentard/Daniel Lorgnier.md",
-    "11 - PNJ/Élève/01 - Première année/Serpentard/Elfrida Parkin.md",
-    "11 - PNJ/Élève/01 - Première année/Serpentard/Evan Farrow.md",
-    "11 - PNJ/Élève/01 - Première année/Serpentard/Garry Connor.md",
-    "11 - PNJ/Élève/01 - Première année/Serpentard/Kyle Cooper.md",
-    "11 - PNJ/Élève/01 - Première année/Serpentard/Lona Felswing.md",
-    "11 - PNJ/Élève/01 - Première année/Serpentard/Penny Deans.md",
-    "11 - PNJ/Élève/01 - Première année/Serpentard/Rebecca Bulstrode.md",
-    "11 - PNJ/Élève/01 - Première année/01 - Première année.md",
-    "11 - PNJ/Élève/01 - Première année/Serdaigle/Melissa Karaboss.md",
-    "11 - PNJ/Élève/01 - Première année/Serpentard/Raynes Buckley.md",
-    "11 - PNJ/Élève/01 - Première année/Serdaigle/Sylvester Quince.md",
-    "11 - PNJ/Élève/01 - Première année/Serdaigle/Su Li.md",
-    "11 - PNJ/Élève/01 - Première année/Serdaigle/Morgane Gulliver.md",
-    "Sans titre.canvas",
-    "11 - PNJ/Famille/Lorgnier",
-    "99 - Fourre tout/Plan de Poudlard étage par étage.pdf",
-    "99 - Fourre tout/Scenario-premiere-annee-a-Poudlard-LAmulette-du-Savoir.pdf",
-    "99 - Fourre tout/Scenario-dintroduction-Tout-va-de-travers-au-Chemin-de-Traverse.pdf",
-    "99 - Fourre tout/Scenario-Deuxieme-annee-a-Poudlard-Le-Calice-des-Immortels.pdf",
-    "99 - Fourre tout/Les-Spectres-dun-Passe-Oublie.pdf",
-    "99 - Fourre tout/Le Grand Livre des Traits 2.0.pdf",
-    "12 - Annexes"
+    "20 - Scénario Introduction/Idée prochain scénario.md"
   ]
 }
