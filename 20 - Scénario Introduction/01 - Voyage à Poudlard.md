@@ -20,7 +20,7 @@ Les joueurs monteront dans le train et s'installeront dans leur cabine. Lorsque 
 Les PNJ qu'ils pourront rencontré :
 - [[Ginny Clerval]] et [[Gweneth Clerval]], des sœurs jumelles. Elles semblent discuter des sorts qu'elles aimeraient apprendre en feuilletant un bouquin. Notamment de [[Failamalle]] qui permettrait de ranger ses affaires. Si les joueurs se prennent d'amitié d'une manière ou d'une autre avec elles, elles pourront leur apprendre un maléfice : [[Furunculus]]
 - [[Peter Lawrence]] est le type qui s'est mangé le mur à la gare, il semble un peu contrarié par l'erreur de Fergus qui lui a valu une sacré humiliation. De plus, la dame du chariot de sucrerie lui a vendu une choco-grenouille et le fait que la grenouille en chocolat bouge l'a pris un peu de cours. Décidément, il ne s'y fera jamais à ce monde de sorcier. Il sera difficile de devenir amis avec lui pour le moment mais avec les bons mots, tout peut être possible.
-- [[Buckley Raynes]] semble être en train de tendre une farce à la dame du chariot. _Trouver une farce à faire_
+- [[Buckley Raynes]] semble être en train de tendre une farce à la dame du chariot. _Trouver une farce à faire (Pourquoi pas coller les roues du chariot au sol ?)
 - [[Amy Garrison]] 
 - PNJ 5
 
@@ -30,7 +30,7 @@ La boutique de confiserie arrive à leur porte. Elle propose moulte bonbons (...
 
 Une demi-heure après, si les PJ n'ont toujours pas bouger de leur place, ils verront  [[Lysandre Tombenoir]] qui à l'air en panique. 
 
-C'est une petite grenouille verte que les joueurs doivent chercher. [[Lysandre Tombenoir]] leur raconte qu'il voulait s'occuper d'elle en la sortant de la cage et en lui donnant à manger mais un gros bruit à surgis dans la cabine d'à coté. Un peu confus de savoir ce qu'était le bruit, il est allé voir en la remettant dans sa cage mais l'a apparemment mal refermé et c'est à ce moment qu'elle s'est enfuis. Le bruit s'agissait seulement d'une grosse valise qui était tombé.
+C'est une petite grenouille verte que les joueurs doivent chercher. Il leur raconte qu'il voulait s'occuper d'elle en la sortant de la cage et en lui donnant à manger mais un gros bruit à surgis dans la cabine d'à coté. Un peu confus de savoir ce qu'était le bruit, il est allé voir en la remettant dans sa cage mais l'a apparemment mal refermé et c'est à ce moment qu'elle s'est enfuis. Le bruit s'agissait seulement d'une grosse valise qui était tombé.
 
 Ils pourront trouver des indices dans différentes parties du train :
 
@@ -64,6 +64,8 @@ Les joueurs sont libres de terminer de recontrer les deniers pnj pas encore renc
 Les joueurs descendent du train et rencontre un gros et grand monsieur, plus grand que la moyenne, avec une barbe et une touffe de cheveux qui laissent apercevoir uniquement son nez et ses yeux. C'est [[Hagrid Rubeus]], le gardien des clés. Il acceuille les élèves avec un grand sourire :
 
 > Bonsoir à tous, j'espère que vous avez passer un agréable voyage à bord du train, mais le chemin est loin d'être encore fini. Laissez vos valises ici, elles vous seront remises dans vos chambres réceptives. Suivez moi.
+
+Pendant qu'Hagrid guident la troupe, il discute avec M. Jefferson et qu'il a le sentiment qu'il va falloir redoubler de vigilance à l'égard de certaine personne...
 
 Il vous guide vers un port où sont amarré une cinquante de barque en bois. Chacun monte dans les barques qu'ils souhaites par 4. D'autre PNJ si les joueurs se retrouvent avec d'autre élève : 
 - PNJ 1
@@ -103,7 +105,6 @@ Le directeur de Poudlard, [[Albus Dumbledore]], prend la parole pour présenter 
 > Avant de vous laisser dévorer ce délicieux repas, quelques annonces :
 >  - Les escaliers ont décidé de bouger selon une logique propre à eux. Ne cherchez pas à les comprendre, vous mourrez avant d'avoir trouver.
 > - La [[Forêt Interdite]] est... comme son nom l'indique, toujours interdite. Cela inclus les pique-nique, les expéditions nocturnes et les tentatives de dressage de créature avec les restes de pudding.
-> - Le professeur Lapin, notre nouveau maître en Défense contre les Force du Mal, tient à préciser que malgré son nom, il n'est probablement pas un animagus. Enfin, pas un lapin.
 > L’année qui s’annonce pourrait être… intéressante. Dans le sens le plus ancien et le plus inquiétant du terme. Il se pourrait que certaines ombres paraissent plus épaisses que d’habitude. Il se pourrait aussi qu’un jour, vous soyez confrontés à des choix difficiles, même face à un buffet de desserts. Mais n'oubliez jamais ceci : il y a toujours de la lumière à Poudlard.. surtout depuis que j'ai installé ces magnifiques lustres au plafond. Bonne année à tous et à toutes, et un bon appétit.
 
 Ils se feront appeler un par un pour passer sous le choixpeau pour déterminer leur maison. Une fois l'attribution des maisons, ils peuvent commencer à manger et discuter avec les autres PNJ
