@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "bd42d680dd8a84d2",
+        "id": "c842b138a896e39c",
         "type": "tabs",
         "children": [
           {
-            "id": "756da79f0e226e88",
+            "id": "9d83895f35730998",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "markdown",
+              "state": {
+                "file": "20 - Scénario Introduction/01 - Voyage à Poudlard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 - Voyage à Poudlard"
+            }
+          },
+          {
+            "id": "215e7fb59d714df7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vue graphique"
+              "icon": "lucide-file",
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -90,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "20 - Scénario Introduction/01 - Voyage à Poudlard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétroliens"
+              "title": "Rétrolien pour 01 - Voyage à Poudlard"
             }
           },
           {
@@ -163,9 +178,19 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "756da79f0e226e88",
+  "active": "9d83895f35730998",
   "lastOpenFiles": [
     "20 - Scénario Introduction/01 - Voyage à Poudlard.md",
+    "11 - PNJ/Élève/01 - Première année/Serdaigle/Ginny Clerval.md",
+    "11 - PNJ/Élève/01 - Première année/Serdaigle/Gweneth Clerval.md",
+    "00 - Modèle/Modèle PNJ.md",
+    "00 - Modèle/Modèle de sort.md",
+    "11 - PNJ/Élève/01 - Première année/Poufsouffle/Peter Lawrence.md",
+    "04 - Sort/Utilitaire/Utilitaire.md",
+    "04 - Sort/Maléfices/Furunculus.md",
+    "Sans titre",
+    "04 - Sort/Utilitaire/Failamalle.md",
+    "04 - Sort/Utilitaire",
     "11 - PNJ/Élève/01 - Première année/Serpentard/Antoine Greson.md",
     "11 - PNJ/Élève/01 - Première année/Serpentard/Daniel Lorgnier.md",
     "11 - PNJ/Élève/01 - Première année/Serpentard/Elfrida Parkin.md",
@@ -183,14 +208,6 @@
     "11 - PNJ/Élève/01 - Première année/Serdaigle/Su Li.md",
     "11 - PNJ/Élève/01 - Première année/Serdaigle/Morgane Gulliver.md",
     "11 - PNJ/Élève/01 - Première année/Serdaigle/Kateline MacAllister.md",
-    "11 - PNJ/Élève/01 - Première année/Serdaigle/Isabel MacDougal.md",
-    "11 - PNJ/Élève/01 - Première année/Serdaigle/Gweneth Clerval.md",
-    "11 - PNJ/Élève/01 - Première année/Serdaigle/Ginny Clerval.md",
-    "11 - PNJ/Élève/01 - Première année/Serdaigle/Auberon Fairbairn.md",
-    "11 - PNJ/Élève/01 - Première année/Serdaigle/Archibald Willowis.md",
-    "11 - PNJ/Élève/01 - Première année/Poufsouffle/Tracy Knott.md",
-    "11 - PNJ/Élève/01 - Première année/Poufsouffle/Prude Prescott.md",
-    "11 - PNJ/Élève/01 - Première année/Poufsouffle/Peter Lawrence.md",
     "Sans titre.canvas",
     "11 - PNJ/Famille/Lorgnier",
     "99 - Fourre tout/Plan de Poudlard étage par étage.pdf",
@@ -199,8 +216,6 @@
     "99 - Fourre tout/Scenario-Deuxieme-annee-a-Poudlard-Le-Calice-des-Immortels.pdf",
     "99 - Fourre tout/Les-Spectres-dun-Passe-Oublie.pdf",
     "99 - Fourre tout/Le Grand Livre des Traits 2.0.pdf",
-    "12 - Annexes",
-    "12 - Annexes/Maladies-Blessures-Empoisonnements-Maledictions-et-objets-maudits.pdf",
-    "99 - Fourre tout/harry-potter-scenario-jdr-serpent-a-deux-tetes-v2.pdf"
+    "12 - Annexes"
   ]
 }

@@ -5,10 +5,12 @@
 
 ### Informations générales
 - **Âge / Année** : 
+- **Sexe :**
 - **Ascendance** : (Sang-pur, sang-mêlé, né-moldu, inconnu)
 - **Maison** : (Gryffondor, Serpentard, Serdaigle, Poufsouffle, autre)
 - **Occupation** : (élève, professeur, fantôme, créature, etc.)
 - **Parents :**
+- **Frères/sœurs :**
 - **Apparence** : 
 - **Comportement** : 
 

@@ -5,7 +5,7 @@
 
 ### Informations générales
 - **Âge / Année** : 
-- **Ascendance** : (Sang-pur, sang-mêlé, né-moldu, inconnu)
+- **Ascendance** : Né-Moldu
 - **Maison** : Poufsouffle
 - **Occupation** : (élève, professeur, fantôme, créature, etc.)
 - **Parents :**

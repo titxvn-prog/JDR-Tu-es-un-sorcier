@@ -9,7 +9,7 @@ Fergus regarda ça montre et s'exclama :
 
 > **"Par ma barbe ! Il est hors de question que vous soyez en retard à cause de moi ! Vite, tous au quai !"** S'exclama t'il.
 
-Il indiqua alors le mur par lequel rentrer, [[Tom Jefferson]] s’élança avec son chariot, et s'écrasa majestueusement, sous le rire de ses camarades et l'effroi de ses parents.
+Il indiqua alors le mur par lequel rentrer, un mec s’élança avec son chariot, et s'écrasa majestueusement, sous le rire de ses camarades et l'effroi de ses parents.
 
 Un joueur attentif pourra voir que dans la précipitation Fergus à désigner la voie 9 2/4 et pas la 9 3/4.
 
@@ -18,10 +18,10 @@ Fergus compris vite son erreur et pour ne pas perdre la face il accusera des pet
 Les joueurs monteront dans le train et s'installeront dans leur cabine. Lorsque l'horloge sonne 11h, le train se met en marche et un long trajet commence.
 
 Les PNJ qu'ils pourront rencontré :
-- PNJ 1
-- PNJ 2
-- PNJ 3
-- PNJ 4
+- [[Ginny Clerval]] et [[Gweneth Clerval]], des sœurs jumelles. Elles semblent discuter des sorts qu'elles aimeraient apprendre en feuilletant un bouquin. Notamment de [[Failamalle]] qui permettrait de ranger ses affaires. Si les joueurs se prennent d'amitié d'une manière ou d'une autre avec elles, elles pourront leur apprendre un maléfice : [[Furunculus]]
+- [[Peter Lawrence]] est le type qui s'est mangé le mur à la gare, il semble un peu contrarié par l'erreur de Fergus qui lui a valu une sacré humiliation. De plus, la dame du chariot de sucrerie lui a vendu une choco-grenouille et le fait que la grenouille en chocolat bouge l'a pris un peu de cours. Décidément, il ne s'y fera jamais à ce monde de sorcier. Il sera difficile de devenir amis avec lui pour le moment mais avec les bons mots, tout peut être possible.
+- [[Buckley Raynes]] semble être en train de tendre une farce à la dame du chariot. _Trouver une farce à faire_
+- [[Amy Garrison]] 
 - PNJ 5
 
 La boutique de confiserie arrive à leur porte. Elle propose moulte bonbons (...) Et en soulevant une cloche, une grenouille verte saute sur la vendeuse qui hurle d'effroi
@@ -36,10 +36,10 @@ Ils pourront trouver des indices dans différentes parties du train :
 
 - Dans sa cabine, ils trouveront la cage de la grenouille vide et ouverte en grand ainsi qu'un récipient contenant divers insecte qui aurait fait un excellent repas pour la grenouille, il ne manque d'ailleurs aucun insecte dedans d'après [[Lysandre Tombenoir]]. Si ils décident de faire un jet de perception, ils pourront entendre un petit bruit venant de la valise du haut et si ils décident de regarder, ne trouverons que d'autres récipients contenant des insectes.
 - Interroger les différents élèves à proximités :
-	- [[]] semble n'avoir rien vu
-	- [[]] ne veut pas entendre parler de grenouille suite à sa découverte malaisante des chocogrenouilles (et oui elle bouge et c'est un Né-Moldu)
-	- [[]] a cru entendre la dame du chariot de sucrerie grogner quelques choses à propos d'une grenouille
-	- [[]] dit l'avoir vu dans le wagon bar (évidemment c'est un mensonge et les joueurs peuvent tenter de découvrir le mensonge avec un jet de Bluff dd15)
+	- [[Ginny Clerval]] et [[Gweneth Clerval]] semble n'avoir rien vu
+	- [[Peter Lawrence]] ne veut pas entendre parler de grenouille suite à sa découverte malaisante des chocogrenouilles (et oui elle bouge et c'est un Né-Moldu)
+	- [[Arthur Tempel]] a cru entendre la dame du chariot de sucrerie grogner quelques choses à propos d'une grenouille
+	- [[Buckley Raynes]] dit l'avoir vu dans le wagon bar (évidemment c'est un mensonge et les joueurs peuvent tenter de découvrir le mensonge avec un jet de Bluff dd15)
 - Ils peuvent visiter dans une autre cabine un carnet de croquis qui dessine tout ce qu'il voit et notamment une grenouille qui semble se diriger vers l'avant du train
 
 Après quelques investigations, les joueurs devront se rendre vers l'avant pour essayer de retrouver la grenouille accompagner de [[Lysandre Tombenoir]]
