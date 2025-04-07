@@ -18,7 +18,7 @@ Fergus compris vite son erreur et pour ne pas perdre la face il accusera des pet
 Les joueurs monteront dans le train et s'installeront dans leur cabine. Lorsque l'horloge sonne 11h, le train se met en marche et un long trajet commence.
 
 Les PNJ qu'ils pourront rencontré :
-- [[Ginny Clerval]] et [[Gweneth Clerval]], des sœurs jumelles. Elles semblent discuter des sorts qu'elles aimeraient apprendre en feuilletant un bouquin. Notamment de [[2e - Failamalle]] qui permettrait de ranger ses affaires. Si les joueurs se prennent d'amitié d'une manière ou d'une autre avec elles, elles pourront leur apprendre un maléfice : [[1er - Furunculus]]
+- [[Ginny Clerval]] et [[Gweneth Clerval]], des sœurs jumelles. Elles semblent discuter des sorts qu'elles aimeraient apprendre en feuilletant un bouquin. Notamment de Failamalle qui permettrait de ranger ses affaires. Si les joueurs se prennent d'amitié d'une manière ou d'une autre avec elles, elles pourront leur apprendre un maléfice : Furunculus
 - [[Peter Lawrence]] est le type qui s'est mangé le mur à la gare, il semble un peu contrarié par l'erreur de Fergus qui lui a valu une sacré humiliation. De plus, la dame du chariot de sucrerie lui a vendu une choco-grenouille et le fait que la grenouille en chocolat bouge l'a pris un peu de cours. Décidément, il ne s'y fera jamais à ce monde de sorcier. Il sera difficile de devenir amis avec lui pour le moment mais avec les bons mots, tout peut être possible.
 - [[Buckley Raynes]] semble être en train de tendre une farce à la dame du chariot en manigancent un dragée pour le faire exploser en un tas de confettis sur le chariot.
 - [[Amy Garrison]] 
@@ -38,7 +38,7 @@ Ils pourront trouver des indices dans différentes parties du train :
 - Interroger les différents élèves à proximités :
 	- [[Ginny Clerval]] et [[Gweneth Clerval]] semble n'avoir rien vu
 	- [[Peter Lawrence]] ne veut pas entendre parler de grenouille suite à sa découverte malaisante des chocogrenouilles (et oui elle bouge et c'est un Né-Moldu)
-	- [[Arthur Tempel]] a cru entendre la dame du chariot de sucrerie grogner quelques choses à propos d'une grenouille
+	- [[Amy Garrison]] a cru entendre la dame du chariot de sucrerie grogner quelques choses à propos d'une grenouille
 	- [[Buckley Raynes]] dit l'avoir vu dans le wagon bar (évidemment c'est un mensonge et les joueurs peuvent tenter de découvrir le mensonge avec un jet de Bluff dd15)
 - Ils peuvent visiter dans une autre cabine un carnet de croquis qui dessine tout ce qu'il voit et notamment une grenouille qui semble se diriger vers l'avant du train
 
@@ -57,9 +57,9 @@ Les joueurs peuvent lancer un sort pour tenter de récupérer la grenouille mais
 
 > On se recroisera, croyez moi. 
 
-[[]] semble reconnaissant de l'avoir aidé à retrouver sa grenouille et vous offre quelques chocogrenouilles avec leurs cartes.
+[[Lysandre Tombenoir]] semble reconnaissant de l'avoir aidé à retrouver sa grenouille et vous offre quelques choco-grenouilles avec leurs cartes.
 
-Les joueurs sont libres de terminer de recontrer les deniers pnj pas encore rencontré plus haut, sinon le train arrivera à la gare de Près-au-Lard.
+Les joueurs sont libres de terminer de rencontrer les derniers pnj pas encore rencontré plus haut, sinon le train arrivera à la gare de Près-au-Lard.
 
 Les joueurs descendent du train et rencontre un gros et grand monsieur, plus grand que la moyenne, avec une barbe et une touffe de cheveux qui laissent apercevoir uniquement son nez et ses yeux. C'est [[Hagrid Rubeus]], le gardien des clés. Il acceuille les élèves avec un grand sourire :
 
@@ -68,9 +68,9 @@ Les joueurs descendent du train et rencontre un gros et grand monsieur, plus gra
 Pendant qu'Hagrid guident la troupe, il discute avec M. Jefferson et qu'il a le sentiment qu'il va falloir redoubler de vigilance à l'égard de certaine personne...
 
 Il vous guide vers un port où sont amarré une cinquante de barque en bois. Chacun monte dans les barques qu'ils souhaites par 4. D'autre PNJ si les joueurs se retrouvent avec d'autre élève : 
-- PNJ 1
-- PNJ 2
-- PNJ 3
+- [[Elfrida Parkin]]
+- [[Isabel MacDougal]]
+- [[Duncan Fuller]]
 
 Les joueurs peuvent discuter avec les PNJ ou entre eux. Laisser un peu de temps pour la prochaine partie pour que les élèves puissent "imaginer" le temps de trajet entre la gare et le chateau. Rien d'anormale se passe dans la traverser et Hagrid peut lancer quelques phrases du genre :
 
@@ -105,7 +105,8 @@ Le directeur de Poudlard, [[Albus Dumbledore]], prend la parole pour présenter 
 > Avant de vous laisser dévorer ce délicieux repas, quelques annonces :
 >  - Les escaliers ont décidé de bouger selon une logique propre à eux. Ne cherchez pas à les comprendre, vous mourrez avant d'avoir trouver.
 > - La [[Forêt Interdite]] est... comme son nom l'indique, toujours interdite. Cela inclus les pique-nique, les expéditions nocturnes et les tentatives de dressage de créature avec les restes de pudding.
-> L’année qui s’annonce pourrait être… intéressante. Dans le sens le plus ancien et le plus inquiétant du terme. Il se pourrait que certaines ombres paraissent plus épaisses que d’habitude. Il se pourrait aussi qu’un jour, vous soyez confrontés à des choix difficiles, même face à un buffet de desserts. Mais n'oubliez jamais ceci : il y a toujours de la lumière à Poudlard.. surtout depuis que j'ai installé ces magnifiques lustres au plafond. Bonne année à tous et à toutes, et un bon appétit.
+> - Le couleur du 3e étage est strictement interdit d'accès pour tous les élèves.
+> L’année qui s’annonce pourrait être… intéressante. Dans le sens le plus ancien et le plus inquiétant du terme. Il se pourrait que certaines ombres paraissent plus épaisses que d’habitude. Il se pourrait aussi qu’un jour, vous soyez confrontés à des choix difficiles, même face à un buffet de desserts. Bonne année à tous et à toutes, et un bon appétit.
 
 Ils se feront appeler un par un pour passer sous le choixpeau pour déterminer leur maison. Une fois l'attribution des maisons, ils peuvent commencer à manger et discuter avec les autres PNJ
 
