@@ -1,8 +1,7 @@
 ### Concept
-> Elle ne parle que très peu.. ou pas du tout, on ne sait pas. Elle ne communiques que via un petit carnet qu'elle transporte partout avec elle. Son écriture est parfaite, personne ne s'est jamais plaint de pas réussir à lire ce qu'elle écrivait.
+> Elle n'a jamais su parlé, mais c'est de famille. Les rumeurs disent qu'une malédiction s'est abattu sur sa famille il a déjà quelques générations. Elle communique grâce à un carnet qu'elle a toujours sur elle.
 
 ---
-
 ### Informations générales
 - **Âge / Année** : 11 ans
 - **Ascendance** : Sang-mêlé
@@ -11,14 +10,14 @@
 - **Parents :**
 - **Frères/sœurs :**
 - **Apparence** : Cheveux très lisse et noir, avec une frange sur le front, elle a des traits de visage plutôt discret
-- **Comportement** : C'est quelqu'un de doux et un peu mystérieux, et assez réserver. Elle ne s'impose généralement pas dans les groupes, mais en tête à tête, elle fait une très bonne amie.
+- **Comportement** : C'est quelqu'un de doux, un peu mystérieux, et assez réserver. Elle ne s'impose généralement pas dans les groupes, mais en tête à tête, elle fait une très bonne amie. Elle a l'esprit vif et intelligent, elle n'hésitera pas à venir en aide en cas de besoin
 ---
 ### Traits et Capacités
 - **Traits** : 
 	- Silencieuse : elle ne parle pas et a appris à ne pas faire de bruit
 - **Sorts maîtrisés** : 
 - **Objets possédés** : 
-
+	- Carnet d'écriture
 ---
 
 ### Relations
@@ -29,7 +28,7 @@
 ---
 
 ### Secrets ou Objectifs cachés
-> (Ce que le PNJ cache ou ce qu’il cherche à accomplir secrètement)
+> Elle cherche à détruire cette malédiction qui s'est abattu sur sa famille.
 
 ---
 

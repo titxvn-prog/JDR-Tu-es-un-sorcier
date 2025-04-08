@@ -11,7 +11,7 @@
 - **Occupation** : Élève
 - **Parents :**
 - **Apparence** : Sa taille n'est pas très grande, cheveux châtains ébouriffés, porte des robes un peu trop grande pour lui car elles viennent de ses cousins
-- **Comportement** : Il est en admiration quand il est face à une créature magique. Mais le reste du temps, c'est quelqu'un de réserver qui n'aime pas faire trop de vague 
+- **Comportement** : Il est en admiration quand il est face à une créature magique. Mais le reste du temps, c'est quelqu'un de réserver qui n'aime pas faire trop de vague. Il n'est pas quelqu'un de méchant et sa présence reste tout de même agréable.
 
 ---
 

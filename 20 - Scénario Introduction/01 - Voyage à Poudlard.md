@@ -21,7 +21,7 @@ Les PNJ qu'ils pourront rencontré :
 - [[Ginny Clerval]] et [[Gweneth Clerval]], des sœurs jumelles. Elles semblent discuter des sorts qu'elles aimeraient apprendre en feuilletant un bouquin. Notamment de Failamalle qui permettrait de ranger ses affaires. Si les joueurs se prennent d'amitié d'une manière ou d'une autre avec elles, elles pourront leur apprendre un maléfice : Furunculus
 - [[Peter Lawrence]] est le type qui s'est mangé le mur à la gare, il semble un peu contrarié par l'erreur de Fergus qui lui a valu une sacré humiliation. De plus, la dame du chariot de sucrerie lui a vendu une choco-grenouille et le fait que la grenouille en chocolat bouge l'a pris un peu de cours. Décidément, il ne s'y fera jamais à ce monde de sorcier. Il sera difficile de devenir amis avec lui pour le moment mais avec les bons mots, tout peut être possible
 - [[Buckley Raynes]] semble être en train de tendre une farce à la dame du chariot en manigancent un paquet de dragée en y enfermant une grenouille
-- [[Amy Garrison]] est en train de crier sur une carte choco-grenouille pour faire réapparaître la magicien qui s'y trouvé
+- [[Emile Garisson]] est en train de crier sur une carte choco-grenouille pour faire réapparaître la magicien qui s'y trouvé
 - [[Lysandre Tombenoir]] est inquiet et cherche quelques choses en tournant la tête dans tous les sens, soulevant les objets de temps à d'autre et les repose tout suite après avoir vu qu'il n'y avait rien dessous
 
 La boutique de confiserie arrive à leur porte. Elle propose moult bonbons (...) Et en soulevant le paquet de dragée, une grenouille sort du paquet et saute sur la dame du chariot.
@@ -38,7 +38,7 @@ Ils pourront trouver des indices dans différentes parties du train :
 - Interroger les différents élèves à proximités :
 	- [[Ginny Clerval]] et [[Gweneth Clerval]] semble n'avoir rien vu
 	- [[Peter Lawrence]] ne veut pas entendre parler de grenouille suite à sa découverte malaisante des chocogrenouilles (et oui elle bouge et c'est un Né-Moldu)
-	- [[Amy Garrison]] a cru entendre la dame du chariot de sucrerie grogner quelques choses à propos d'une grenouille tout à l'heure
+	- [[Emile Garisson]] a cru entendre la dame du chariot de sucrerie grogner quelques choses à propos d'une grenouille tout à l'heure
 	- [[Buckley Raynes]] dit l'avoir vu dans le wagon bar (évidemment c'est un mensonge et les joueurs peuvent tenter de découvrir le mensonge avec un jet de Bluff dd15)
 - Ils peuvent visiter dans une autre cabine un carnet de croquis qui dessine tout ce qu'il voit et notamment une grenouille qui semble se diriger vers l'avant du train
 

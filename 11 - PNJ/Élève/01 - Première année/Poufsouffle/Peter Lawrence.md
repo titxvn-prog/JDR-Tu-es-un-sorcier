@@ -2,7 +2,6 @@
 > Il a passé sa vie a ignoré l'existence d'un monde de sorcier. Lorsqu'il a reçu sa lettre à Poudlard, ces parents et lui ont d'abords cru à une blague et l'ont ignoré. Puis ils ont reçu encore et encore cette lettre avant de céder et se rendre au [[Chaudron Baveur]]. Quand ils se sont fait accueillir par Fergus et qu'il leur a ouvert le [[Chemin de Traverse]], c'est tout un nouveau monde qui s'est ouvert à eux que Peter va découvrir à Poudlard.
 
 ---
-
 ### Informations générales
 - **Âge / Année** : 11 ans
 - **Ascendance** : Né-Moldu
@@ -11,9 +10,7 @@
 - **Parents :**
 - **Frères/sœurs :**
 - **Apparence** : Il a une petite touffe de cheveux bruns et bouclé sur le dessus de sa tête, les yeux noisette et souvent perplexes vis à vis de ce qu'il l'entoure
-- **Comportement** : C'est quelqu'un de plutôt grincheux et qui se dit souvent qu'il aurait mieux fait de pas se lever de son lit ce matin. 
-
-
+- **Comportement** : C'est quelqu'un de plutôt grincheux et qui se dit souvent qu'il aurait mieux fait de pas se lever de son lit ce matin. Il ne parle que très rarement de magie, ces sujets de conversation sont souvent en lien avec les objets moldu.
 ---
 
 ### Traits et Capacités

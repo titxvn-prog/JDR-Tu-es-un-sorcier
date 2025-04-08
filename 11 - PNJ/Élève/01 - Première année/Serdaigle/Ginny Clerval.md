@@ -12,7 +12,7 @@
 - **Parents :**
 - **Frères/sœurs :** [[Gweneth Clerval]]
 - **Apparence** : 
-- **Comportement** : 
+- **Comportement** : Elle est en cohésion avec sa sœur. Contrairement à d'autre, elle ne parle quasiment que de magie et s’entraîne régulièrement à lancer des sorts pour le maîtriser à la perfection. Elle n'est très altruiste : pour elle, ceux qui doivent réussir sont ceux qui se donnent les moyens de réussir.
 ---
 
 ### Traits et Capacités
@@ -25,13 +25,13 @@
 
 ### Relations
 - **Alliés / Amis** : 
-- **Rivaux / Ennemis** : 
+- **Rivaux / Ennemis** : [[Isabel MacDougal]]
 - **Liens particuliers avec les PJ** : 
 
 ---
 
 ### Secrets ou Objectifs cachés
-> Son seul objectif est d'être première de la classe avec sa sœur
+> Elle souhaite pouvoir devenir ministère de la magie avec sa sœur, et les résultats en classe doivent suivre. 
 
 ---
 

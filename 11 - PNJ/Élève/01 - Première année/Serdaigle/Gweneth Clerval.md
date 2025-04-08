@@ -11,15 +11,14 @@
 - **Occupation** : Élève
 - **Parents :**
 - - **Frères/sœurs :** [[Ginny Clerval]]
-- **Apparence** : 
-- **Comportement** : 
-
-
+- **Apparence** : Elle porte des lunettes rondes
+- **Comportement** : Elle est en cohésion avec sa sœur. Contrairement à d'autre, elle ne parle quasiment que de magie et s’entraîne régulièrement à lancer des sorts pour le maîtriser à la perfection. Elle est très altruiste et n'hésitera pas à aider les personnes qui lui demande.
 ---
 
 ### Traits et Capacités
 - **Traits** : 
 	- Sœur jumelle : la synergie entre les 2 sœurs semblent atteindre une puissance extraordinaire au point de...
+	- Pédagogue : elle enseigne très facilement les concepts compliqués et donc permet aux autres de mieux comprendre
 - **Sorts maîtrisés** : 
 - **Objets possédés** : 
 

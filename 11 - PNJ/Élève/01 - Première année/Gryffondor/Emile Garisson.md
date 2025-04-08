@@ -1,28 +1,22 @@
 ### Concept
-> C'est un idiot. C'est une cause perdu. Ses parents ne savent plus quoi faire de lui. Il ne sait pas réfléchir ce qui créer parfois des situations cocasses.
-
+> Il n'est pas idiot, mais il est très long à la détente. Il a du mal à percuter ce qui se passe au tour de lui. Il est incollable sur le Quidditch.
 ---
-
 ### Informations générales
 - **Âge / Année** : 11 ans
-- **Sexe :** Femme
+- **Sexe :** Homme
 - **Ascendance** : Sang-mêlé
 - **Maison** : Gryffondor
 - **Occupation** : Élève
 - **Parents :**
 - **Frères/sœurs :**
 - **Apparence** : 
-- **Comportement** : 
-
-
+- **Comportement** : La conversation avec lui peut paraître longue, le temps de comprendre ce que tu lui dis, et qu'il trouve la réponse adéquate. Les décisions importantes le mettent en panique, il ne faut pas trop en attendre de lui.
 ---
-
 ### Traits et Capacités
 - **Traits** : 
-	- Idiot : ne prends que rarement conscience des événements qui l'entoure
+	- Idiot : n'est pas d'une grande aide dans la plus part des cas
 - **Sorts maîtrisés** : 
 - **Objets possédés** : 
-
 ---
 
 ### Relations
@@ -33,7 +27,7 @@
 ---
 
 ### Secrets ou Objectifs cachés
-> (Ce que le PNJ cache ou ce qu’il cherche à accomplir secrètement)
+> Il souhaite intégrer une grande équipe de Quidditch et d'en vivre.
 
 ---
 

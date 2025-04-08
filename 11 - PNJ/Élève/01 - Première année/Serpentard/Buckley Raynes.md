@@ -12,9 +12,7 @@
 - **Parents :**
 - **Frères/sœurs :**
 - **Apparence** : 
-- **Comportement** : 
-
-
+- **Comportement** : Il aime les farces, il aime rire aux éclats et ne s'arrête jamais dans ses bêtises. Parfois on se dit qu'il ne peut pas faire pire, et la fois d'après c'est encore pire. Il raconte que des bêtises et ne sait jamais être sérieux, même dans les moments sérieux. Il trouve ça d'un ennuie terrible.
 ---
 
 ### Traits et Capacités

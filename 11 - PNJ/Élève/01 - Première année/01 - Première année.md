@@ -1,7 +1,7 @@
 #### Gryffondor
 - [[Alfred Proud]]
 - [[Alice Fleming]]
-- [[Amy Garrison]]
+- [[Emile Garisson]]
 - [[Colin Harridge]]
 - [[Desmond Shale]]
 - [[Garry Roseburry]]
