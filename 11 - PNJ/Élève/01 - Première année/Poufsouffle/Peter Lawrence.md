@@ -33,7 +33,7 @@
 ---
 
 ### Secrets ou Objectifs cachés
-> (Ce que le PNJ cache ou ce qu’il cherche à accomplir secrètement)
+> Il a l'intention de terminer ses cours de sorciers pour reprendre une vie de moldu après Poudlard. Il étudie des domaines moldu en parallèle des cours.
 
 ---
 

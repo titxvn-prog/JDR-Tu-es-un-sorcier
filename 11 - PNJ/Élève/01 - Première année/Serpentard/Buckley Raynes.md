@@ -1,15 +1,16 @@
 ### Concept
-> Une courte description de l'idée générale du personnage (rôle, fonction, particularité notable)
+> Il adore les farces, il expérimente les farces les plus rusés et les plus complexes. Il ne sait pas s'arrêter et ses farces prennent parfois des ampleurs démesurées sans se soucier des conséquences. Mais il est souvent plus fier d'avoir réaliser sa farce que de se faire punir.
 
 ---
 
 ### Informations générales
-- **Âge / Année** : 
+- **Âge / Année** : 11 ans
 - **Sexe :** Homme
-- **Ascendance** : (Sang-pur, sang-mêlé, né-moldu, inconnu)
+- **Ascendance** : Sang-pur
 - **Maison** : Serpentard
-- **Occupation** : (élève, professeur, fantôme, créature, etc.)
+- **Occupation** : Élèves
 - **Parents :**
+- **Frères/sœurs :**
 - **Apparence** : 
 - **Comportement** : 
 
@@ -17,7 +18,8 @@
 ---
 
 ### Traits et Capacités
-- **Traits** : (choisis dans la liste du fichier `Traits.md`)
+- **Traits** : 
+	- Rusé : Il peut créer des plans très complexes pour réussir ses farces
 - **Sorts maîtrisés** : 
 - **Objets possédés** : 
 
@@ -31,11 +33,11 @@
 ---
 
 ### Secrets ou Objectifs cachés
-> (Ce que le PNJ cache ou ce qu’il cherche à accomplir secrètement)
+> Son plus grand rêve est que son nom soit connu pour avoir réaliser la plus grosse farce du monde de sorcier, qu'elle soit bien ou mauvaise.
 
 ---
 
 ### Notes du Directeur
-> Infos méta, improvisations possibles, inspirations, ou précisions pour l’interprétation.
+> Les actions qu'auront les joueurs avec ce PNJ aura un impact sur la moralité de ses farces : si les joueurs l'incitent à faire des bonnes farces, il deviendra bon et inversement.
 
 

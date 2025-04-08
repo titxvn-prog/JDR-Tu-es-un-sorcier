@@ -1,11 +1,11 @@
 ### Concept
-> Une courte description de l'idée générale du personnage (rôle, fonction, particularité notable)
+> Elle a déjà lu tous les bouquins de la 1er à la 5e année. Elle corrige les profs, par pour être méchant, mais parce que c'est plus précis comme ça.
 
 ---
 
 ### Informations générales
 - **Âge / Année** : 
-- **Ascendance** : (Sang-pur, sang-mêlé, né-moldu, inconnu)
+- **Ascendance** : Sang Pur
 - **Maison** : Serdaigle
 - **Occupation** : (élève, professeur, fantôme, créature, etc.)
 - **Parents :**
@@ -24,13 +24,16 @@
 
 ### Relations
 - **Alliés / Amis** : 
+	- Livre avant tout : comme le trait
+	- Peur de l'échec : elle ne peut pas supporter l'échec, et si elle échoue, elle a honte et devient assez hystérique
+	- 
 - **Rivaux / Ennemis** : 
 - **Liens particuliers avec les PJ** : 
 
 ---
 
 ### Secrets ou Objectifs cachés
-> (Ce que le PNJ cache ou ce qu’il cherche à accomplir secrètement)
+> Elle veut devenir une sorcière reconnue dans le monde de la magie et des avancés magiques
 
 ---
 

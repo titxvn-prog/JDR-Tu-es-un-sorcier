@@ -1,22 +1,21 @@
 ### Concept
-> Une courte description de l'idée générale du personnage (rôle, fonction, particularité notable)
+> Elle ne parle que très peu.. ou pas du tout, on ne sait pas. Elle ne communiques que via un petit carnet qu'elle transporte partout avec elle. Son écriture est parfaite, personne ne s'est jamais plaint de pas réussir à lire ce qu'elle écrivait.
 
 ---
 
 ### Informations générales
-- **Âge / Année** : 
-- **Ascendance** : (Sang-pur, sang-mêlé, né-moldu, inconnu)
+- **Âge / Année** : 11 ans
+- **Ascendance** : Sang-mêlé
 - **Maison** : Poufsouffle
-- **Occupation** : (élève, professeur, fantôme, créature, etc.)
+- **Occupation** : Élèves
 - **Parents :**
-- **Apparence** : 
-- **Comportement** : 
-
-
+- **Frères/sœurs :**
+- **Apparence** : Cheveux très lisse et noir, avec une frange sur le front, elle a des traits de visage plutôt discret
+- **Comportement** : C'est quelqu'un de doux et un peu mystérieux, et assez réserver. Elle ne s'impose généralement pas dans les groupes, mais en tête à tête, elle fait une très bonne amie.
 ---
-
 ### Traits et Capacités
-- **Traits** : (choisis dans la liste du fichier `Traits.md`)
+- **Traits** : 
+	- Silencieuse : elle ne parle pas et a appris à ne pas faire de bruit
 - **Sorts maîtrisés** : 
 - **Objets possédés** : 
 

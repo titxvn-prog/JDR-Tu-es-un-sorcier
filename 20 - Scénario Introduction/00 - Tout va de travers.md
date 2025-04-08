@@ -36,7 +36,7 @@ _C'est aussi le moment où les joueurs vont se rencontrer pour la première fois
 
 > Fergus entame la conversation "Bien le bonjour Ollivander ! Je vous ai ramené de futur sorcier pour leur première baguette." Ollivander répliqua "Ah… J'espère qu'ils seront plus adroit que vous Fergus… voyons voir quelle baguette vous choisira"
 
-_Demandez à vos joueurs de lancer **2d6** et informez le joueur du type de bois qui compose sa baguette. Si ils refusent celle ci, décrivez ce qu'il se passe "Les pages du livre sur le bureau d'Ollivanders se déchirent et s'envolent dans les airs", "La baguette vous échappe des mains et s'envolent à l'autre bout de la pièce" par exemple, avec quelques commentaires d'Ollivander "Celle-ci ? Non, bien trop puissante pour un débutant". C'est à lui ensuite de choisir **le type de cœur de la baguette**, et pour déterminer la longueur, un **2d8+20cm**._
+_Demandez à vos joueurs de lancer **2d6** et informez le joueur du type de bois qui compose sa baguette. Si ils refusent celle ci, décrivez ce qu'il se passe "Les pages du livre sur le bureau d'Ollivanders se déchirent et s'envolent dans les airs", "La baguette vous échappe des mains et s'envolent à l'autre bout de la pièce" par exemple, avec quelques commentaires d'Ollivander "Celle-ci ? Non, bien trop puissante pour un débutant", quelques effets [[Effet de baguette chez Ollivander]]. C'est à lui ensuite de choisir **le type de cœur de la baguette**, et pour déterminer la longueur, un **2d8+20cm**._
 
 _Le choix de la baguette déterminera le caractère du personnage des joueurs, elle doit donc être en adéquation avec ce que le joueur à envie de jouer._
 

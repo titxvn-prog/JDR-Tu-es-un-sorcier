@@ -6,9 +6,9 @@
 ### Informations générales
 - **Âge / Année** : 11 ans
 - **Sexe :** Femme
-- **Ascendance** : (Sang-pur, sang-mêlé, né-moldu, inconnu)
+- **Ascendance** : Sang-pur
 - **Maison** : Serdaigle
-- **Occupation** : (élève, professeur, fantôme, créature, etc.)
+- **Occupation** : Élève
 - **Parents :**
 - - **Frères/sœurs :** [[Ginny Clerval]]
 - **Apparence** : 
@@ -33,7 +33,7 @@
 ---
 
 ### Secrets ou Objectifs cachés
-> (Ce que le PNJ cache ou ce qu’il cherche à accomplir secrètement)
+> Son seul objectif est d'être première de la classe avec sa sœur
 
 ---
 

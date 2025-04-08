@@ -8,7 +8,7 @@
 - **Sexe :** Femme
 - **Ascendance** : Sang-pur
 - **Maison** : Serdaigle
-- **Occupation** : (élève, professeur, fantôme, créature, etc.)
+- **Occupation** : Élève
 - **Parents :**
 - **Frères/sœurs :** [[Gweneth Clerval]]
 - **Apparence** : 
@@ -31,7 +31,7 @@
 ---
 
 ### Secrets ou Objectifs cachés
-> (Ce que le PNJ cache ou ce qu’il cherche à accomplir secrètement)
+> Son seul objectif est d'être première de la classe avec sa sœur
 
 ---
 

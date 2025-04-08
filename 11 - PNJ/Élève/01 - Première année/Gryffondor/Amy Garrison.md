@@ -1,14 +1,16 @@
 ### Concept
-> Une courte description de l'idée générale du personnage (rôle, fonction, particularité notable)
+> C'est un idiot. C'est une cause perdu. Ses parents ne savent plus quoi faire de lui. Il ne sait pas réfléchir ce qui créer parfois des situations cocasses.
 
 ---
 
 ### Informations générales
-- **Âge / Année** : 
-- **Ascendance** : (Sang-pur, sang-mêlé, né-moldu, inconnu)
+- **Âge / Année** : 11 ans
+- **Sexe :** Femme
+- **Ascendance** : Sang-mêlé
 - **Maison** : Gryffondor
-- **Occupation** : (élève, professeur, fantôme, créature, etc.)
+- **Occupation** : Élève
 - **Parents :**
+- **Frères/sœurs :**
 - **Apparence** : 
 - **Comportement** : 
 
@@ -16,7 +18,8 @@
 ---
 
 ### Traits et Capacités
-- **Traits** : (choisis dans la liste du fichier `Traits.md`)
+- **Traits** : 
+	- Idiot : ne prends que rarement conscience des événements qui l'entoure
 - **Sorts maîtrisés** : 
 - **Objets possédés** : 
 
