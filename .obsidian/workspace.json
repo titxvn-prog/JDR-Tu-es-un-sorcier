@@ -4,151 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5c1bb063514b6c47",
+        "id": "8a297f7cc1013750",
         "type": "tabs",
         "children": [
           {
-            "id": "e3243e217a1d0798",
+            "id": "f2333d7b1c305f38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20 - Scénario Introduction/01 - Voyage à Poudlard.md",
+                "file": "01 - Joueurs/Dylan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - Voyage à Poudlard"
-            }
-          },
-          {
-            "id": "51a0bf110c3aa958",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11 - PNJ/Élève/01 - Première année/Poufsouffle/Eliza Robbins.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Eliza Robbins"
-            }
-          },
-          {
-            "id": "f50e451a7adf488b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11 - PNJ/Élève/01 - Première année/Serdaigle/Isabel MacDougal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Isabel MacDougal"
-            }
-          },
-          {
-            "id": "52303b94e7a2b913",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11 - PNJ/Élève/01 - Première année/Serpentard/Elfrida Parkin.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Elfrida Parkin"
-            }
-          },
-          {
-            "id": "0c461a4b90a58af9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11 - PNJ/Élève/01 - Première année/Poufsouffle/Lysandre Tombenoir.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lysandre Tombenoir"
-            }
-          },
-          {
-            "id": "a159320b5896e577",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11 - PNJ/Élève/01 - Première année/Gryffondor/Emile Garisson.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Emile Garisson"
-            }
-          },
-          {
-            "id": "9e2d60b31838e079",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11 - PNJ/Élève/01 - Première année/Serpentard/Buckley Raynes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Buckley Raynes"
-            }
-          },
-          {
-            "id": "9f1efd6276534a0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11 - PNJ/Élève/01 - Première année/Poufsouffle/Peter Lawrence.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Peter Lawrence"
-            }
-          },
-          {
-            "id": "5377be9092dc3521",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11 - PNJ/Élève/01 - Première année/Serdaigle/Gweneth Clerval.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gweneth Clerval"
-            }
-          },
-          {
-            "id": "25a86734e406382f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11 - PNJ/Élève/01 - Première année/Serdaigle/Ginny Clerval.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ginny Clerval"
+              "title": "Dylan"
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -294,31 +167,42 @@
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
       "github-sync:Sync with Remote": false,
-      "excel:Create Excel File": false
+      "excel:Create Excel File": false,
+      "dbfolder:Créer une nouvelle table de données": false
     }
   },
-  "active": "25a86734e406382f",
+  "active": "f2333d7b1c305f38",
   "lastOpenFiles": [
-    "11 - PNJ/Élève/01 - Première année/Serdaigle/Gweneth Clerval.md",
-    "11 - PNJ/Élève/01 - Première année/Serdaigle/Ginny Clerval.md",
-    "11 - PNJ/Élève/01 - Première année/Poufsouffle/Peter Lawrence.md",
-    "11 - PNJ/Élève/01 - Première année/Serpentard/Buckley Raynes.md",
-    "11 - PNJ/Élève/01 - Première année/Gryffondor/Emile Garisson.md",
-    "11 - PNJ/Élève/01 - Première année/Poufsouffle/Lysandre Tombenoir.md",
-    "11 - PNJ/Élève/01 - Première année/Serpentard/Elfrida Parkin.md",
-    "11 - PNJ/Élève/01 - Première année/Serdaigle/Isabel MacDougal.md",
-    "11 - PNJ/Élève/01 - Première année/Poufsouffle/Eliza Robbins.md",
-    "20 - Scénario Introduction/01 - Voyage à Poudlard.md",
-    "90 - Règle/01 - Livre des règles.pdf",
+    "01 - Joueurs/Tylan.md",
+    "01 - Joueurs/Romane.md",
+    "01 - Joueurs/Mathéo.md",
+    "01 - Joueurs/Malena.md",
+    "01 - Joueurs/Lola.md",
+    "01 - Joueurs/La Pouette.md",
+    "03 - Traits/03 - Traits.md",
+    "03 - Traits/Traits.zip",
+    "01 - Joueurs/trait.md",
+    "01 - Joueurs/Dylan.md",
+    "00 - Modèle/Modèle joueur.md",
     "11 - PNJ/Professeurs/Tom Jefferson.md",
-    "11 - PNJ/Élève/01 - Première année/Poufsouffle/Duncan Fuller.md",
-    "12 - Annexes/Effet de baguette chez Ollivander.md",
-    "20 - Scénario Introduction/00 - Tout va de travers.md",
-    "10 - Lieux/Poudlard/SC - Serpentard.md",
-    "10 - Lieux/Poudlard/SC - Serdaigle.md",
-    "10 - Lieux/Poudlard/SC - Poufsouffle.md",
-    "10 - Lieux/Poudlard/SC - Gryffondor.md",
-    "20 - Scénario Introduction/Idée prochain scénario.md",
-    "04 - Sort/Liste des sorts.sheet.md"
+    "11 - PNJ/Élève/04 - Quatrième année/Grand Guillitoum.md",
+    "11 - PNJ/Élève/02 - Deuxième année/02 - Deuxième année.md",
+    "11 - PNJ/Élève/04 - Quatrième année",
+    "Le chieur.md",
+    "03 - Traits/Empathique.md",
+    "03 - Traits/Bêtes noire d'un professeur.md",
+    "Liste goût dragée.md",
+    "04 - Sort/Liste des sorts.sheet.md",
+    "03 - Traits/Tête brûlée.md",
+    "03 - Traits/Pédagogue.md",
+    "03 - Traits/Spécialiste*.md",
+    "03 - Traits/Extraverti*.md",
+    "03 - Traits/Veinard.md",
+    "03 - Traits/Sportif*.md",
+    "03 - Traits/Sociable*.md",
+    "Tous les traits",
+    "03 - Traits",
+    "90 - Règle/03 - Carte de Choco-Grenouille.pdf",
+    "90 - Règle/01 - Livre des règles.pdf"
   ]
 }

@@ -19,7 +19,7 @@
 - **Traits** : 
 	- Passionné d'animaux fantastique : son père, qui est inspecteur pour le département de contrôle des créatures, lui a transmis cette passion
 	- Ami fidèle : il n'a que très peu d'amis, mais ses amitiés sont sincères et solide
-	- 
+	- Grand fan Norbert
 - **Sorts maîtrisés** : 
 - **Objets possédés** : 
 	- Quelques friandise pour animaux

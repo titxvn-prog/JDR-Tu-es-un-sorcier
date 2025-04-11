@@ -37,7 +37,7 @@ Ils pourront trouver des indices dans différentes parties du train :
 - Dans sa cabine, ils trouveront la cage de la grenouille vide et ouverte en grand ainsi qu'un récipient contenant divers insecte qui aurait fait un excellent repas pour la grenouille, il ne manque d'ailleurs aucun insecte dedans d'après [[Lysandre Tombenoir]]. Si ils décident de faire un jet de perception, ils pourront entendre un petit bruit venant de la valise du haut et si ils décident de regarder, ne trouverons que d'autres récipients contenant des insectes.
 - Interroger les différents élèves à proximités :
 	- [[Ginny Clerval]] et [[Gweneth Clerval]] semble n'avoir rien vu
-	- [[Peter Lawrence]] ne veut pas entendre parler de grenouille suite à sa découverte malaisante des chocogrenouilles (et oui elle bouge et c'est un Né-Moldu)
+	- [[Peter Lawrence]] ne veut pas entendre parler de grenouille suite à sa découverte malfaisante des choco-grenouilles (et oui elle bouge et c'est un Né-Moldu)
 	- [[Emile Garisson]] a cru entendre la dame du chariot de sucrerie grogner quelques choses à propos d'une grenouille tout à l'heure
 	- [[Buckley Raynes]] dit l'avoir vu dans le wagon bar (évidemment c'est un mensonge et les joueurs peuvent tenter de découvrir le mensonge avec un jet de Bluff dd15)
 - Ils peuvent visiter dans une autre cabine un carnet de croquis qui dessine tout ce qu'il voit et notamment une grenouille qui semble se diriger vers l'avant du train
@@ -50,10 +50,9 @@ Une fois devant ils croiseront [[Daniel Lorgnier]] et sa bande de pote ([[Antoin
 
 > On a perdu sa petite grenouille ? Avec toutes les larmes qui coulent sur ton visage, on comprend rien,  tu peux articuler ? On entends rien entre la queue dans ta bouche et l'apitoiement qui t'étouffe. Si tu la veux viens la chercher !
 
+Naïvement [[Lysandre Tombenoir]] ira la chercher et lorsqu'il sera proche de Daniel, il lancera la grenouille à [[Garry Connor]] qui la balance à [[Antoine Greson]] et ainsi de suite.
 
-Naïvement [[Lysandre Tombenoir]] ira la chercher et lorsqu'il sera proche de Daniel, il lancera la grenouille à [[Garry Connor]] qui la balande à [[Antoine Greson]] et ainsi de suite.
-
-Les joueurs peuvent lancer un sort pour tenter de récupérer la grenouille mais l'un de la bande à Daniel répliquera avec un crache limasse. Ce n'est autre que [[Tom Jefferson]], professeur de défense contre les forces du mal, qui interviendra ensuite vers le groupe pour les disputer pour mettre un brouhaha pas possible dans le train. [[]] récupérera sa grenouille et le joueur qui a lancé le sort subira la conséquence **Colère** (-2 dans tous les jets). Daniel et sa bande vous regarderont d'un air menaçant mais retourneront dans leur cabine. 
+Les joueurs peuvent lancer un sort pour tenter de récupérer la grenouille mais l'un de la bande à Daniel répliquera avec un crache limasse. Ce n'est autre que [[Tom Jefferson]], professeur de défense contre les forces du mal, qui interviendra ensuite vers le groupe pour les disputer pour mettre un brouhaha pas possible dans le train. [[Lysandre Tombenoir]] récupérera sa grenouille et le joueur qui a lancé le sort subira la conséquence **Colère** (-2 dans tous les jets). Daniel et sa bande vous regarderont d'un air menaçant mais retourneront dans leur cabine. 
 
 > On se recroisera, croyez moi. 
 

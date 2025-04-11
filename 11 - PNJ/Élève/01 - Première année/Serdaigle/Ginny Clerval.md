@@ -6,18 +6,19 @@
 ### Informations générales
 - **Âge / Année** : 11 ans
 - **Sexe :** Femme
-- **Ascendance** : Sang-pur
+- **Ascendance** : Sang-mêlé
 - **Maison** : Serdaigle
 - **Occupation** : Élève
 - **Parents :**
 - **Frères/sœurs :** [[Gweneth Clerval]]
 - **Apparence** : 
-- **Comportement** : Elle est en cohésion avec sa sœur. Contrairement à d'autre, elle ne parle quasiment que de magie et s’entraîne régulièrement à lancer des sorts pour le maîtriser à la perfection. Elle n'est très altruiste : pour elle, ceux qui doivent réussir sont ceux qui se donnent les moyens de réussir.
+- **Comportement** : Elle est en cohésion avec sa sœur. Contrairement à d'autre, elle ne parle quasiment que de magie et s’entraîne régulièrement à lancer des sorts pour le maîtriser à la perfection. Elle a côtoyé la mort de près, elle peut donc voir les sombrals et a un relation spéciale avec la mort.
 ---
 
 ### Traits et Capacités
 - **Traits** : 
 	- Sœur jumelle : ..finir la phrase de l'autre
+	- Côtoyer la mort : ses interactions avec les vivants est particulière 
 - **Sorts maîtrisés** : 
 - **Objets possédés** : 
 

@@ -1,7 +1,4 @@
 ## Tout va de travers au **Chemin de traverse**
-
-  
-
 _Vos personnages sont de jeunes sorciers sur le point de faire leurs premiers pas à Poudlard. Mais avant cela, il leur faut passer par une étape incontournable : **le Chemin de Traverse**. Ils devront y acheter toutes leurs fournitures, mais tout ne va pas se passer comme prévu..._
 
 ---
@@ -11,7 +8,7 @@ _Vos personnages sont de jeunes sorciers sur le point de faire leurs premiers pa
 
 > "Nous avons le plaisir de vous informer que vous avez été admis à l'école de sorcellerie Poudlard."
 
-_Chaque joueur découvre l'arrivée de cette lettre dans son quotidien. Les réactions ne seront pas les mêmes en fonction de l'origine des joueurs. En étant sang-pur, ils s'attendaient a recevoir la lettre, sang-mêlé il espéré l'avoir, mais pour un moldu c'est tout a fais extraordinaire, et pour les parents c'est tout leur monde qui s'écroule et s'ouvre sur de nouvelle possibilité... Il se peut alors que les parents le prennent bien, ou mal...
+_Chaque joueur découvre l'arrivée de cette lettre dans son quotidien. Les réactions ne seront pas les mêmes en fonction de l'origine des joueurs. En étant sang-pur, ils s'attendaient a recevoir la lettre, sang-mêlé il espéré l'avoir, mais pour un moldu c'est tout a fais extraordinaire, et pour les parents c'est tout leur monde qui s'écroule et s'ouvre sur de nouvelle possibilité... Il se peut alors que les parents le prennent bien, ou mal..._
 
 > L'enveloppe contient une autre lettre que vous n'avez pas remarqué la première fois. Trop occupé a courir et sauté partout, c'est les parents qui découvriront cette lettre. Cette fois, il s'agit d'une **liste de fournitures scolaires**. Robes, baguette, chaudron, livres... tout un attirail de sorcier à rassembler avant la rentrée prochaine. Elle indique que vous trouverez tout ce dont vous avez besoin au **Chemin de Traverse**, caché derrière le pub **Le Chaudron Baveur**.
 

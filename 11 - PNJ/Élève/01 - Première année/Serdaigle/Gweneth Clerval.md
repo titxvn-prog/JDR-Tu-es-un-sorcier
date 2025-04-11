@@ -6,13 +6,13 @@
 ### Informations générales
 - **Âge / Année** : 11 ans
 - **Sexe :** Femme
-- **Ascendance** : Sang-pur
+- **Ascendance** : Sang-mêlé
 - **Maison** : Serdaigle
 - **Occupation** : Élève
 - **Parents :**
 - - **Frères/sœurs :** [[Ginny Clerval]]
 - **Apparence** : Elle porte des lunettes rondes
-- **Comportement** : Elle est en cohésion avec sa sœur. Contrairement à d'autre, elle ne parle quasiment que de magie et s’entraîne régulièrement à lancer des sorts pour le maîtriser à la perfection. Elle est très altruiste et n'hésitera pas à aider les personnes qui lui demande.
+- **Comportement** : Elle est en cohésion avec sa sœur. Contrairement à d'autre, elle ne parle quasiment que de magie et s’entraîne régulièrement à lancer des sorts pour le maîtriser à la perfection. Elle est altruiste et n'hésite pas 
 ---
 
 ### Traits et Capacités
