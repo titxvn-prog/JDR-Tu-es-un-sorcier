@@ -7,8 +7,8 @@ _Nos joueurs vont découvrir la vie à Poudlard, notamment leur premier cours et
 Les joueurs prendront leur petit déjeuner à Poudlard, demandez ce qu'ils vont manger. Un joueur modlu reçoit sur le crâne du pudding. C'est Daniel, Antoine et Garry pouffent de rire et Daniel vous lance un regard noir. Les conflits ou lancer de sort sont impossible car si l'un des joueurs tentent, un troisième année les en empêchera par peur de faire perdre des points à leur maison.
 
 Des hiboux traverse la grande salle pour distribuer le courrier, le journal se dépose près des joueurs. Ce qui est présent dans le journal :
-- Une expérimentation dans un salon de coiffeur (ça tourne mal) : suite à un expérimentation chez Abracadabarbe sur des colorations, une grosse explosion se fait ressentir dans le Chemin de Traverse. Les clients et les passants proches de la boutique se sont retrouvé avec des cheveux qui changent sans cesse de couloir. 
-- Un fan de Blanche Neige a enchanté un miroir pour créer une réplique du Miroir Magique. Étonnamment, le miroir n'est que très peu courtois Le ministère de la magie rappelle que la courtoisie des objets magiques doivent garder une certaines courtoisies.
+- Une expérimentation dans un salon de coiffeur (ça tourne mal) : suite à un expérimentation chez Abracadabarbe sur des colorations, une grosse explosion se fait ressentir dans le Chemin de Traverse. Les clients et les passants proches de la boutique se sont retrouvé avec des cheveux qui changeant sans cesse de couleur. 
+- Un fan de Blanche Neige a enchanté un miroir pour créer une réplique du Miroir Magique. Étonnamment, le miroir ne connait pas la politesse. Le ministère de la magie rappelle que les objets magiques doivent garder une certaines courtoisies.
 - Une potion de sommeil donne envie de danser au lieu de dormir : le ministère enquête sur les festivités fatigantes qui ont eu récemment suite à une erreur ou un sabotage, le ministère suspecte la secte MagicSystem.
 
 Vous voyez [[Kelly Hudson]], une élève de Gryffondor, recevoir une lettre et tente de la cacher.
@@ -52,13 +52,40 @@ Le professeur vous annonce que vous allez apprendre à soigner les morsures de l
 Lysandre semble particulièrement doué quand le cours touche de près ou de loin aux créatures magiques. Les autres élèves peinent à soigner la blessure mais la majorité y arrive.
 
 ---
-### Rencontre avec Mocassin
+### Temps mort
 Les joueurs sont libres de faire ce qu'ils veulent pendant un petit moment avant de se retrouver dans la grande salle pour le repas du soir. Ils peuvent parler à différent PNJ :
 - Dans la bibliothèque : [[Ginny Clerval]] et [[Gweneth Clerval]] qui étudie différents livres de cours d'enchantement pour essayer d'apprendre de nouveau sort et [[Isabel MacDougal]]  qui étudie un livre de métamorphose mais semble jeter des regards noirs au 2 sœurs.
 - Dans les couloirs : ils pourront retrouver [[Buckley Raynes]] en train de préparer une farce pour [[Argus Rusard]], avec un livre dans les mains et une dizaine de chausson par terre. Ils lancent un sort [[Animus Pantufla]] mais rien en semble se passer pour le moment.
 - Dans les dortoirs : certains élèves cherchent leur paire de pantoufle, ils semblent tous un peu agacé par la situation.
 - Près du port : [[Lysandre Tombenoir]] est assis près de l'eau en train de lire une page sur les calamars géants.
-- Dehors : 
+- Dehors : [[Eliza Robbins]] se est posé près d'un arbre en train d'admirer les plantes
   
 
-En arrivant devant la grande salle, les joueurs croiseront Daniel, Antoine et Garry, qui vont leur préparer un mauvais tour.
+En arrivant devant la grande salle, les joueurs croiseront Daniel, Antoine et Garry qui s'ont en train de discuter avec Peter Lawrence d'une histoire de grimoire caché quelques parts dans un des bureaux des professeurs et qui contiendrai toutes les réponses de des examens de l'année. 
+
+Le repas du soir se passe, demandez au joueur ce qu'ils ont décidé de manger. Peu après le repas, Peter s'avance près des joueurs et leur demande si ils peuvent l'aider à quelques choses de plutôt délicat. Il souhaiterai récupérer un grimoire qui contiendrai toutes les réponses de l'année dans le bureau du professeur [[Minerva McGonagall]]. Il vous a vu aidé Lysandre dans le train, il aimerait que vous l'aidiez aussi. Il a quelques cartes chocogrenouilles et vous prêtera le livre si vous en avez besoin. Les joueurs pourront essayé de l'en dissuader mais il est têtue et souhaite absolument récupérer ce grimoire pour éviter de devoir travailler. 
+
+---
+### Le bureau de MacGonagall
+Les joueurs devront élaborer un plan pour récupérer le grimoire.
+
+Quand les joueurs seront en train de récupérer le grimoire inexistant, Daniel sera en train de prévenir MacGonagall que des élèves se sont infiltrés dans son bureau. Bien évidemment, elle se dirigera vers son bureau pour attraper les joueurs. Les bruits de pas se rapproche de plus en plus, que font les joueurs ?
+
+Juste avant que MacGonagall rentre dans la pièce, un élève commence à parler à MacGonagall créant une diversion pour les joueurs pour que les joueurs puissent sortir. 
+
+L'élève viendra les voir peu de temps après pour se présenter : [[Penny Deans]]. Elle leur dit qu'ils lui dit sont redevables et que si ils veulent pas qu'elle balance à MacGonagall, ils devront lui rendre quelques services.
+
+d10 pour savoir ce qu'elle peut demander :
+1. Récupérer les puddings de la cuisine. Ils sont bon après tout mais il faudra faire attention à ne pas se faire chopper par les elfes de maisons qui y travaillent
+2. Retrouver le carnet de Gweneth Clerval car il semblerait que d'après certaine rumeurs, son carnet contiendrai des notes sur des sorts très puissants
+3. Trouver le passage secret qui mènera dans la réserve de la bibliothèque
+4. Récupérer un cheveux de Daniel sans que se soit suspect
+5. Récupérer des informations sur le couloir du troisième étage
+6. Récupérer les ingrédients manquants pour la potion du polynectar dans la salle de potion
+
+
+---
+### Fin
+Après que Penny semble être satisfaite des services que vous lui avez rendu, elle vous remerciera et vous promet qu'elle ne dira rien de votre escapade dans le bureau de MacGonagall, parole de Penny.
+
+Les joueurs continueront ensuite leur scolarité normalement.

@@ -15,6 +15,7 @@
 ### Traits et Capacités
 - **Traits** : 
 	- Silencieuse : elle ne parle pas et a appris à ne pas faire de bruit
+	- Talentueuse avec les plantes : elle aiment particulièrement les plantes car elle sont comme elle : des êtres incapables de parler
 - **Sorts maîtrisés** : 
 - **Objets possédés** : 
 	- Carnet d'écriture
