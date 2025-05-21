@@ -1,3 +1,16 @@
+
+```RpgManager4
+id: 
+  type: "campaign"
+tasks: 
+  - id: "4d66e488-4fe9-4148-8793-80644094df5f"
+    priority: 1
+    name: "Complete Campaign"
+    description: "Complete Campaign 00 - Tout va de travers"
+    type: "creation"
+    status: "proposed"
+```
+
 ## Tout va de travers au **Chemin de traverse**
 _Vos personnages sont de jeunes sorciers sur le point de faire leurs premiers pas à Poudlard. Mais avant cela, il leur faut passer par une étape incontournable : **le Chemin de Traverse**. Ils devront y acheter toutes leurs fournitures, mais tout ne va pas se passer comme prévu..._
 

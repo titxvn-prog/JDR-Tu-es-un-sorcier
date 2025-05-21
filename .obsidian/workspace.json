@@ -8,20 +8,151 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e809f1f10c9375f5",
+            "id": "47878ec7b9075bfb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20 - Scénario/21 - Scénario Première Année/Année 1 - Premier trimestre.md",
+                "file": "11 - PNJ/Élève/01 - Première année/Gryffondor/Alfred Proud.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Année 1 - Premier trimestre"
+              "title": "Alfred Proud"
+            }
+          },
+          {
+            "id": "b8a653505711e684",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11 - PNJ/Élève/01 - Première année/Serpentard/Buckley Raynes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Buckley Raynes"
+            }
+          },
+          {
+            "id": "67cfb195689177bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Silas Merrow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Silas Merrow"
+            }
+          },
+          {
+            "id": "a019d91733f55604",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lucan Morven.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lucan Morven"
+            }
+          },
+          {
+            "id": "9dc8fa5939be3e6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Année 2 - Deuxième trimestre.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Année 2 - Deuxième trimestre"
+            }
+          },
+          {
+            "id": "717c8938cfffc890",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20 - Scénario/Scénario d'introduction/Malcius Malfoy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Malcius Malfoy"
+            }
+          },
+          {
+            "id": "528569d507e04ef4",
+            "type": "leaf",
+            "state": {
+              "type": "iron-vault-onboarding",
+              "state": {},
+              "icon": "iron-vault",
+              "title": "Welcome to Iron Vault!"
+            }
+          },
+          {
+            "id": "2351ba24de4c1c7b",
+            "type": "leaf",
+            "state": {
+              "type": "intiative-tracker-encounter-builder",
+              "state": [],
+              "icon": "intiative-tracker-encounter-builder",
+              "title": "Encounter Builder"
+            }
+          },
+          {
+            "id": "05438ac23efecb91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "test"
+            }
+          },
+          {
+            "id": "af2b2b8d2e41e894",
+            "type": "leaf",
+            "state": {
+              "type": "iron-vault-link-view",
+              "state": {
+                "link": "https://ironvault.quest"
+              },
+              "icon": "lucide-file",
+              "title": "Iron Vault documentation"
+            }
+          },
+          {
+            "id": "0bc5baffebd6e0a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Harry Potter/Harry Potter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Harry Potter"
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -53,7 +184,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Poursuiveur adroit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,21 +273,53 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Sort/Liste des sorts.sheet.md",
+                "file": "test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Liste des sorts.sheet"
+              "title": "Plan de test"
+            }
+          },
+          {
+            "id": "144ca3c396dc6a5e",
+            "type": "leaf",
+            "state": {
+              "type": "iron-vault-sidebar-view",
+              "state": {},
+              "icon": "iron-vault",
+              "title": "Iron Vault"
+            }
+          },
+          {
+            "id": "ba0d6f31e115c029",
+            "type": "leaf",
+            "state": {
+              "type": "iron-vault-datasworn-content-view",
+              "state": {
+                "file": "test.md"
+              },
+              "icon": "package-search",
+              "title": "Iron Vault Homebrew Inspector"
+            }
+          },
+          {
+            "id": "cd5c613df445129f",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,46 +331,50 @@
       "command-palette:Ouvrir la palette de commandes": false,
       "github-sync:Sync with Remote": false,
       "excel:Create Excel File": false,
-      "dbfolder:Créer une nouvelle table de données": false
+      "dbfolder:Créer une nouvelle table de données": false,
+      "rpg-manager:RPG Manager": false,
+      "iron-vault:Show Iron Vault commands": false,
+      "moulinette:Moulinette Browser": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "e809f1f10c9375f5",
+  "active": "05438ac23efecb91",
   "lastOpenFiles": [
-    "11 - PNJ/Élève/01 - Première année/Serpentard/Penny Deans.md",
+    "Harry Potter/Harry Potter.md",
+    "test.md",
+    "Harry Potter/Truths.md",
+    "Harry Potter/Characters/Tibo.md",
+    "20 - Scénario/Scénario d'introduction/Malcius Malfoy.md",
+    "Harry Potter/Lore",
+    "Harry Potter/Factions",
+    "Harry Potter/Locations",
+    "Harry Potter/Journals/Session 0.md",
+    "Harry Potter/Journals",
+    "Harry Potter/Progress",
+    "Harry Potter/Clocks",
+    "Harry Potter/Characters",
+    "Harry Potter",
+    "20 - Scénario/Scénario d'introduction/00 - Tout va de travers.md",
+    "11 - PNJ/Élève/01 - Première année/Gryffondor/Alfred Proud.md",
+    "03 - Traits/Ainé*.md",
+    "03 - Traits/Poursuiveur Adroit.md",
+    "01 - Joueurs/Lola.md",
+    "01 - Joueurs/La Pouette.md",
+    "01 - Joueurs/Dylan.md",
+    "03 - Traits/Manipulateur.md",
+    "01 - Joueurs/Tylan.md",
+    "01 - Joueurs/trait.md",
+    "01 - Joueurs/Romane.md",
+    "01 - Joueurs/Mathéo.md",
+    "01 - Joueurs/Malena.md",
+    "03 - Traits/Attrapeur.md",
+    "03 - Traits/Artefact.md",
+    "03 - Traits/03 - Traits.md",
     "20 - Scénario/21 - Scénario Première Année/Année 1 - Premier trimestre.md",
-    "11 - PNJ/Élève/01 - Première année/Poufsouffle/Peter Lawrence.md",
-    "11 - PNJ/Élève/01 - Première année/Poufsouffle/Eliza Robbins.md",
-    "11 - PNJ/Élève/01 - Première année/Gryffondor/Garry Roseburry.md",
-    "11 - PNJ/Élève/01 - Première année/Gryffondor/Jodie Merill.md",
-    "11 - PNJ/Élève/01 - Première année/Gryffondor/Kelly Hudson.md",
-    "11 - PNJ/Élève/01 - Première année/Gryffondor/Susan Dawkins.md",
-    "11 - PNJ/Élève/01 - Première année/Gryffondor/Emile Garisson.md",
-    "11 - PNJ/Élève/01 - Première année/Gryffondor/Desmond Shale.md",
-    "11 - PNJ/Élève/01 - Première année/Serpentard/Antoine Greson.md",
-    "11 - PNJ/Élève/01 - Première année/Serpentard/Buckley Raynes.md",
-    "11 - PNJ/Élève/01 - Première année/Serpentard/Daniel Lorgnier.md",
-    "11 - PNJ/Élève/01 - Première année/Serpentard/Elfrida Parkin.md",
-    "11 - PNJ/Élève/01 - Première année/Serpentard/Garry Connor.md",
-    "11 - PNJ/Élève/01 - Première année/Serpentard/Kyle Cooper.md",
-    "11 - PNJ/Élève/01 - Première année/Serpentard/Lona Felswing.md",
-    "11 - PNJ/Élève/01 - Première année/Serdaigle/Kateline MacAllister.md",
-    "11 - PNJ/Élève/01 - Première année/Serdaigle/Morgane Gulliver.md",
-    "11 - PNJ/Élève/01 - Première année/Serdaigle/Su Li.md",
-    "11 - PNJ/Élève/01 - Première année/Serdaigle/Sylvester Quince.md",
-    "11 - PNJ/Élève/01 - Première année/Serdaigle/Archibald Willowis.md",
-    "11 - PNJ/Élève/01 - Première année/Serdaigle/Auberon Fairbairn.md",
-    "11 - PNJ/Élève/01 - Première année/Serdaigle/Gweneth Clerval.md",
-    "11 - PNJ/Élève/01 - Première année/Serdaigle/Ginny Clerval.md",
-    "11 - PNJ/Élève/01 - Première année/Serdaigle/Isabel MacDougal.md",
+    "Année 2 - Deuxième trimestre.md",
+    "Lucan Morven.md",
+    "Silas Merrow.md",
     "99 - Fourre tout/harry-potter-scenario-jdr-serpent-a-deux-tetes-v2.pdf",
-    "99 - Fourre tout/Constellations_Roi DiDaDou.pdf",
-    "99 - Fourre tout/Plan-detude-Sortileges.pdf",
-    "99 - Fourre tout/Plan de Poudlard étage par étage.pdf",
-    "99 - Fourre tout/Les-Spectres-dun-Passe-Oublie.pdf",
-    "99 - Fourre tout/Le Grand Livre des Traits 2.0.pdf",
-    "20 - Scénario/Scénario d'introduction",
-    "12 - Annexes/Maladies-Blessures-Empoisonnements-Maledictions-et-objets-maudits.pdf",
-    "10 - Lieux/Poudlard/Carte du château.pdf",
-    "03 - Traits/Traits.zip"
+    "99 - Fourre tout/Constellations_Roi DiDaDou.pdf"
   ]
 }
