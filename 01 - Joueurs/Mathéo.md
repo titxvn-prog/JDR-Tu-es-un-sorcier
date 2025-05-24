@@ -93,7 +93,9 @@ border: off
 - [[Érudit*]] -1
 - [[Artefact]] (Chaudron d'Essence) -1
 - [[Gardien vigilant]] -1
-- [[Lien Magique]] [[Lola]] -2
+
+
+- [[Lien Magique]] [[La Pouette]] -2
 
 Total : -11
 
@@ -110,7 +112,7 @@ Total : 5
 
 --- end-multi-column
 
-Nombre de point restant : -1
+Nombre de point restant : +1
 
 ---
 ## Cours

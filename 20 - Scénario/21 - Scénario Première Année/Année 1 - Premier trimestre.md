@@ -14,12 +14,14 @@ Des hiboux traverse la grande salle pour distribuer le courrier, le journal se d
 Vous voyez [[Kelly Hudson]], une élève de Gryffondor, recevoir une lettre et tente de la cacher.
 
 Le préfet de chaque maison leur donne leur emploi du temps pour connaitre maintenant les cours qu'ils ont.
+
+---
 ## Premier cours : Enchantement
 Les joueurs devront se rendre en salle d'enchantement pour leur cours d'enchantement. Ils devront partir de la [[Grande Salle]] après s'être empiffré d'un bon petit déjeuner. Après quelques escaliers montés et des couloirs de traversés, ils se retrouveront devant la salle 173, avec aucun autres élèves dans les alentours pour les aider à retrouver leur chemin. Ils semblent perdu dans le labyrinthe de Poudlard. Ça sera à eux de chercher un moyen de retrouver leur chemin en faisant des propositions, à vous Directeur de décider si la technique fonctionnera ou non.
 
 Vous voyez Daniel qui est déjà présent dans la salle de classe, avec ces 2 amis et se moque discrètement des joueurs car ils se font sermonner par Flitwick de leur retard.
 
-Une fois arrivé en 308, de longues tables se présentent à eux, avec des plumes tous les 50cm. [[Filius Flitwick]] vous invite à vous assoir derrière une plume afin de commencer le cours. Leur premier sort sera : [[Wingardium Leviosa]], un sort pour faire léviter un objet. 
+Une fois arrivé en 308, de longues tables se présentent à eux, avec des plumes tous les 50cm. [[Filius Flitwick]] vous invite à vous asseoir derrière une plume afin de commencer le cours. Leur premier sort sera : [[Wingardium Leviosa]], un sort pour faire léviter un objet. 
 
 Vous entendez Daniel derrière vous : "Tu vas réussir à faire lever ta plume ou tu vas t'envoler avec elle ? *rire*"
 
@@ -43,7 +45,7 @@ Vous retournez vers la grande salle pour manger votre repas du midi demandez au 
 
 ---
 ## Deuxième cours : Défense contre les forces du mal
-Faire lancer un dé pour savoir si ils trouvent la salle de classe, si ils échouent ils arriveront en retard et Daniel et son groupe ne manquera pas de leur faire remarquer. Un mannequin avec une profonde morsure se figure au milieu de la pièce et le prof [[Tom Jefferson]] se tiens à coté.
+Faire lancer un dé pour savoir si ils trouvent la salle de classe, si ils échouent ils arriveront en retard et Daniel et son groupe ne manquera pas de leur faire remarquer. Un mannequin avec une profonde morsure se figure au milieu de la pièce et le prof [[Tom Jefferson]] se tient à coté.
 
 Le professeur vous annonce que vous allez apprendre à soigner les morsures de loup garou.
 
@@ -59,11 +61,11 @@ Les joueurs sont libres de faire ce qu'ils veulent pendant un petit moment avant
 - Dans les dortoirs : certains élèves cherchent leur paire de pantoufle, ils semblent tous un peu agacé par la situation.
 - Près du port : [[Lysandre Tombenoir]] est assis près de l'eau en train de lire une page sur les calamars géants.
 - Dehors : [[Eliza Robbins]] se est posé près d'un arbre en train d'admirer les plantes
-  
+  mettrait de ranger ses affaires
 
 En arrivant devant la grande salle, les joueurs croiseront Daniel, Antoine et Garry qui s'ont en train de discuter avec Peter Lawrence d'une histoire de grimoire caché quelques parts dans un des bureaux des professeurs et qui contiendrai toutes les réponses de des examens de l'année. 
 
-Le repas du soir se passe, demandez au joueur ce qu'ils ont décidé de manger. Peu après le repas, Peter s'avance près des joueurs et leur demande si ils peuvent l'aider à quelques choses de plutôt délicat. Il souhaiterai récupérer un grimoire qui contiendrai toutes les réponses de l'année dans le bureau du professeur [[Minerva McGonagall]]. Il vous a vu aidé Lysandre dans le train, il aimerait que vous l'aidiez aussi. Il a quelques cartes chocogrenouilles et vous prêtera le livre si vous en avez besoin. Les joueurs pourront essayé de l'en dissuader mais il est têtue et souhaite absolument récupérer ce grimoire pour éviter de devoir travailler. 
+Le repas du soir se passe, demandez au joueur ce qu'ils ont décidé de manger. Peu après le repas, Peter s'avance près des joueurs et leur demande si ils peuvent l'aider à quelques choses de plutôt délicat. Il souhaiterai récupérer un grimoire qui contiendrai toutes les réponses de l'année dans le bureau du professeur [[Minerva McGonagall]]. Il vous a vu aidé Lysandre dans le train, il aimerait que vous l'aidiez aussi. Il a quelques cartes chocogrenouilles et vous prêtera le livre si vous en avez besoin. Les joueurs pourront essayé de l'en dissuader mais il est têtue et souhaite absolument récupérer ce grimoire pour éviter de devoir travailler. Et si ils refusent de l'aider, Peter se fera prendra et Daniel dira que c'est sûrement les joueurs qui l'ont incités à faire ça.
 
 ---
 ### Le bureau de MacGonagall
@@ -89,3 +91,16 @@ d10 pour savoir ce qu'elle peut demander :
 Après que Penny semble être satisfaite des services que vous lui avez rendu, elle vous remerciera et vous promet qu'elle ne dira rien de votre escapade dans le bureau de MacGonagall, parole de Penny.
 
 Les joueurs continueront ensuite leur scolarité normalement.
+
+| D10 | Résultat                                                                                     |
+| --- | -------------------------------------------------------------------------------------------- |
+| 0   | Contre toute attente, la plume vole parfaitement : le personnage apprend quand même le sort. |
+| 1   | La plume fonce droit dans la bouche d’un autre élève.                                        |
+| 2   | Elle tournoie avant de plonger dans un encrier, éclaboussant l’élève voisin.                 |
+| 3   | Elle s’élève un instant… puis s’écrase sur le bureau dans un bruit d’enclume.                |
+| 4   | Rien ne se passe. Silence gênant.                                                            |
+| 5   | La plume s’envole, scintille… puis explose en confettis.                                     |
+| 6   | Elle reste immobile, mais son ombre flotte au-dessus du bureau.                              |
+| 7   | Elle se tortille frénétiquement comme un ver.                                                |
+| 8   | Elle pousse un bruit de poulet — un résidu magique de son ancien propriétaire, peut-être ?   |
+| 9   | Elle change de couleur aléatoirement.                                                        |

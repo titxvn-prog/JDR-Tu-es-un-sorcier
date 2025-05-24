@@ -40,11 +40,11 @@ border: off
 
 --- end-column ---
 
-- **Coeur :** 3
+- **Coeur :** 2
 
 --- end-column ---
 
-- **Corps :** 1
+- **Corps :** 2
 
 --- end-multi-column
 
