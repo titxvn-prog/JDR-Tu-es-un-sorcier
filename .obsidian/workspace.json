@@ -92,49 +92,31 @@
             }
           },
           {
-            "id": "528569d507e04ef4",
-            "type": "leaf",
-            "state": {
-              "type": "iron-vault-onboarding",
-              "state": {},
-              "icon": "iron-vault",
-              "title": "Welcome to Iron Vault!"
-            }
-          },
-          {
-            "id": "2351ba24de4c1c7b",
-            "type": "leaf",
-            "state": {
-              "type": "intiative-tracker-encounter-builder",
-              "state": [],
-              "icon": "intiative-tracker-encounter-builder",
-              "title": "Encounter Builder"
-            }
-          },
-          {
             "id": "05438ac23efecb91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
-                "mode": "preview",
+                "file": "20 - Scénario/21 - Scénario Première Année/Année 1 - Premier trimestre.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "Année 1 - Premier trimestre"
             }
           },
           {
-            "id": "af2b2b8d2e41e894",
+            "id": "032b9363350412fe",
             "type": "leaf",
             "state": {
-              "type": "iron-vault-link-view",
+              "type": "markdown",
               "state": {
-                "link": "https://ironvault.quest"
+                "file": "Second scénario remanié/02 - Une journée à Poudlard.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Iron Vault documentation"
+              "title": "02 - Une journée à Poudlard"
             }
           },
           {
@@ -152,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -184,7 +166,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Poursuiveur adroit",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -273,53 +255,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de test"
-            }
-          },
-          {
-            "id": "144ca3c396dc6a5e",
-            "type": "leaf",
-            "state": {
-              "type": "iron-vault-sidebar-view",
-              "state": {},
-              "icon": "iron-vault",
-              "title": "Iron Vault"
-            }
-          },
-          {
-            "id": "ba0d6f31e115c029",
-            "type": "leaf",
-            "state": {
-              "type": "iron-vault-datasworn-content-view",
-              "state": {
-                "file": "test.md"
-              },
-              "icon": "package-search",
-              "title": "Iron Vault Homebrew Inspector"
-            }
-          },
-          {
-            "id": "cd5c613df445129f",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
+              "title": "Plan"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -331,17 +281,31 @@
       "command-palette:Ouvrir la palette de commandes": false,
       "github-sync:Sync with Remote": false,
       "excel:Create Excel File": false,
-      "dbfolder:Créer une nouvelle table de données": false,
-      "rpg-manager:RPG Manager": false,
-      "iron-vault:Show Iron Vault commands": false,
-      "moulinette:Moulinette Browser": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false
+      "dbfolder:Créer une nouvelle table de données": false
     }
   },
-  "active": "05438ac23efecb91",
+  "active": "032b9363350412fe",
   "lastOpenFiles": [
-    "Harry Potter/Harry Potter.md",
+    "Second scénario remanié/Enchantement - Wingardium Leviosa.md",
+    "Second scénario remanié/02 - Une journée à Poudlard.md",
+    "20 - Scénario/21 - Scénario Première Année/Année 1 - Premier trimestre.md",
+    "Second scénario remanié/DCFM - Morsure de loup-garou.md",
+    "Second scénario remanié",
+    "1er - Titillando.md",
+    "Année 2 - Deuxième trimestre.md",
+    "11 - PNJ/Élève/01 - Première année/Serdaigle/Isabel MacDougal.md",
+    "11 - PNJ/Élève/01 - Première année/01 - Première année.md",
+    "11 - PNJ/Élève/01 - Première année/Poufsouffle/Eliza Robbins.md",
+    "03 - Traits/03 - Traits.md",
+    "01 - Joueurs/01 - Joueurs.md",
+    "01 - Joueurs/Dylan.md",
+    "00 - Modèle/Modèle PNJ.md",
+    "Tags",
+    "20 - Scénario/Scénario d'introduction/01 - Voyage à Poudlard.md",
+    "Sans titre.md",
+    "20 - Scénario/Scénario d'introduction/00 - Tout va de travers.md",
     "test.md",
+    "Harry Potter/Harry Potter.md",
     "Harry Potter/Truths.md",
     "Harry Potter/Characters/Tibo.md",
     "20 - Scénario/Scénario d'introduction/Malcius Malfoy.md",
@@ -354,27 +318,9 @@
     "Harry Potter/Clocks",
     "Harry Potter/Characters",
     "Harry Potter",
-    "20 - Scénario/Scénario d'introduction/00 - Tout va de travers.md",
     "11 - PNJ/Élève/01 - Première année/Gryffondor/Alfred Proud.md",
     "03 - Traits/Ainé*.md",
     "03 - Traits/Poursuiveur Adroit.md",
-    "01 - Joueurs/Lola.md",
-    "01 - Joueurs/La Pouette.md",
-    "01 - Joueurs/Dylan.md",
-    "03 - Traits/Manipulateur.md",
-    "01 - Joueurs/Tylan.md",
-    "01 - Joueurs/trait.md",
-    "01 - Joueurs/Romane.md",
-    "01 - Joueurs/Mathéo.md",
-    "01 - Joueurs/Malena.md",
-    "03 - Traits/Attrapeur.md",
-    "03 - Traits/Artefact.md",
-    "03 - Traits/03 - Traits.md",
-    "20 - Scénario/21 - Scénario Première Année/Année 1 - Premier trimestre.md",
-    "Année 2 - Deuxième trimestre.md",
-    "Lucan Morven.md",
-    "Silas Merrow.md",
-    "99 - Fourre tout/harry-potter-scenario-jdr-serpent-a-deux-tetes-v2.pdf",
-    "99 - Fourre tout/Constellations_Roi DiDaDou.pdf"
+    "01 - Joueurs/Lola.md"
   ]
 }

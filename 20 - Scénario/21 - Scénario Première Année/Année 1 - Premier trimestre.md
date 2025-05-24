@@ -91,3 +91,16 @@ d10 pour savoir ce qu'elle peut demander :
 Après que Penny semble être satisfaite des services que vous lui avez rendu, elle vous remerciera et vous promet qu'elle ne dira rien de votre escapade dans le bureau de MacGonagall, parole de Penny.
 
 Les joueurs continueront ensuite leur scolarité normalement.
+
+| D10 | Résultat                                                                                     |
+| --- | -------------------------------------------------------------------------------------------- |
+| 0   | Contre toute attente, la plume vole parfaitement : le personnage apprend quand même le sort. |
+| 1   | La plume fonce droit dans la bouche d’un autre élève.                                        |
+| 2   | Elle tournoie avant de plonger dans un encrier, éclaboussant l’élève voisin.                 |
+| 3   | Elle s’élève un instant… puis s’écrase sur le bureau dans un bruit d’enclume.                |
+| 4   | Rien ne se passe. Silence gênant.                                                            |
+| 5   | La plume s’envole, scintille… puis explose en confettis.                                     |
+| 6   | Elle reste immobile, mais son ombre flotte au-dessus du bureau.                              |
+| 7   | Elle se tortille frénétiquement comme un ver.                                                |
+| 8   | Elle pousse un bruit de poulet — un résidu magique de son ancien propriétaire, peut-être ?   |
+| 9   | Elle change de couleur aléatoirement.                                                        |
